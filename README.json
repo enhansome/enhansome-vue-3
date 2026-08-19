@@ -1,1955 +1,2084 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "General",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "General",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44571718,
+                "language": null,
+                "last_commit": "2026-07-24T10:16:04Z",
+                "owner": "vuejs",
+                "repo": "awesome-vue",
+                "stars": 73538
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vite",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 289191277,
+                "language": "JavaScript",
+                "last_commit": "2026-02-04T13:10:54Z",
+                "owner": "vitejs",
+                "repo": "awesome-vite",
+                "stars": 17221
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-07-24T10:16:04Z",
-            "owner": "vuejs",
-            "repo": "awesome-vue",
-            "stars": 73541
-          }
+          "node_type": "group",
+          "title": "Related awesome lists"
         },
         {
-          "node_type": "item",
-          "title": "Vite",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "vite",
+              "description": "Next generation frontend tooling. It's fast.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 257485422,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:16:23Z",
+                "owner": "vitejs",
+                "repo": "vite",
+                "stars": 82407
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-next",
+              "description": "Repo for Vue 3.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 137078487,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T08:52:39Z",
+                "owner": "vuejs",
+                "repo": "core",
+                "stars": 54223
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "headlessui-vue",
+              "description": "A set of completely unstyled, fully accessible UI components for Vue 3, designed to integrate beautifully with Tailwind CSS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 295992065,
+                "language": "TypeScript",
+                "last_commit": "2026-04-13T16:12:31Z",
+                "owner": "tailwindlabs",
+                "repo": "headlessui",
+                "stars": 28710
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vant",
+              "description": "Lightweight Mobile UI Components built on Vue 3",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88717215,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T01:42:21Z",
+                "owner": "youzan",
+                "repo": "vant",
+                "stars": 24363
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vitepress",
+              "description": "Vite & Vue powered static site generator",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 260338399,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T00:46:07Z",
+                "owner": "vuejs",
+                "repo": "vitepress",
+                "stars": 18202
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vee-validate",
+              "description": "VeeValidate (v4) Vue 3 Template driven form validation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64519183,
+                "language": "TypeScript",
+                "last_commit": "2026-03-04T07:08:06Z",
+                "owner": "logaretm",
+                "repo": "vee-validate",
+                "stars": 11259
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "particles.vue3",
+              "description": "A lightweight library for easily create highly customizable particles animations for websites",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 238514517,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T07:05:44Z",
+                "owner": "tsparticles",
+                "repo": "tsparticles",
+                "stars": 8956
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vuelidate-next",
+              "description": "Vuelidate (next) - Simple, lightweight model-based validation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 72931382,
+                "language": "JavaScript",
+                "last_commit": "2025-06-10T10:49:50Z",
+                "owner": "vuelidate",
+                "repo": "vuelidate",
+                "stars": 6874
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-router-next",
+              "description": "The Vue 3 official router (WIP)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 169618186,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:53:01Z",
+                "owner": "vuejs",
+                "repo": "router",
+                "stars": 4668
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "composition-api",
+              "description": "Vue2 plugin for the Composition API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 193669763,
+                "language": "TypeScript",
+                "last_commit": "2023-08-15T11:08:15Z",
+                "owner": "vuejs",
+                "repo": "composition-api",
+                "stars": 4181
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vuestic-ui",
+              "description": "Vue.js 3.0 UI Library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 200370313,
+                "language": "Vue",
+                "last_commit": "2026-05-09T13:59:58Z",
+                "owner": "epicmaxco",
+                "repo": "vuestic-ui",
+                "stars": 3747
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Virtua",
+              "description": "A zero-config, fast and small (~3kB) virtual list component for React, Vue and Solid.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 549650165,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T10:20:55Z",
+                "owner": "inokawa",
+                "repo": "virtua",
+                "stars": 3718
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-toastification",
+              "description": "🍞 Light, easy, and beautiful Toasts for Vue 2 and 3.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 214525695,
+                "language": "TypeScript",
+                "last_commit": "2024-02-27T09:38:14Z",
+                "owner": "Maronato",
+                "repo": "vue-toastification",
+                "stars": 3369
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "markstream-vue",
+              "description": "A Vue 3 streaming Markdown renderer for AI chat, supporting incomplete Markdown, Mermaid, KaTeX, long responses, and streaming code blocks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 988222683,
+                "language": "Vue",
+                "last_commit": "2026-08-19T09:07:45Z",
+                "owner": "Simon-He95",
+                "repo": "markstream-vue",
+                "stars": 2899
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-smooth-dnd",
+              "description": "A fast and lightweight drag&drop, sortable library for Vue.js with many configuration options covering many d&d scenarios.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 128948498,
+                "language": "JavaScript",
+                "last_commit": "2023-09-23T17:52:58Z",
+                "owner": "kutlugsahin",
+                "repo": "vue-smooth-dnd",
+                "stars": 1835
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@vuepic/vue-datepicker",
+              "description": "The most complete datepicker solution for Vue 3",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 469373397,
+                "language": "TypeScript",
+                "last_commit": "2026-07-08T22:10:49Z",
+                "owner": "Vuepic",
+                "repo": "vue-datepicker",
+                "stars": 1763
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-quill",
+              "description": "✒️📝 A Vue 3 rich text editor component based on Quill Editor. See a Live Demo.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 341436722,
+                "language": "TypeScript",
+                "last_commit": "2026-08-16T23:15:27Z",
+                "owner": "vueup",
+                "repo": "vue-quill",
+                "stars": 1345
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-advanced-cropper",
+              "description": "The advanced vue cropper library that gives you opportunity to create your own croppers suited for any website design.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 193229071,
+                "language": "Vue",
+                "last_commit": "2024-06-09T10:02:48Z",
+                "owner": "advanced-cropper",
+                "repo": "vue-advanced-cropper",
+                "stars": 1183
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-composable",
+              "description": "Vue composition-api composable components",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 216648976,
+                "language": "TypeScript",
+                "last_commit": "2023-02-03T05:13:30Z",
+                "owner": "pikax",
+                "repo": "vue-composable",
+                "stars": 1178
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-test-utils-next",
+              "description": "The next iteration of Vue Test Utils, targeting Vue 3",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 241878558,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T15:28:56Z",
+                "owner": "vuejs",
+                "repo": "test-utils",
+                "stars": 1154
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fast-crud",
+              "description": "Options-oriented crud framework, developing crud as fast as lightning",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 337942053,
+                "language": "TypeScript",
+                "last_commit": "2026-08-15T16:41:41Z",
+                "owner": "fast-crud",
+                "repo": "fast-crud",
+                "stars": 1144
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-final-modal",
+              "description": "A renderless, lightweight, feature-rich modal component for Vue 3.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 195983361,
+                "language": "TypeScript",
+                "last_commit": "2024-09-10T15:49:26Z",
+                "owner": "vue-final",
+                "repo": "vue-final-modal",
+                "stars": 1008
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue3-carousel",
+              "description": "Modern lightweight carousel component built for Vue 3.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 258840419,
+                "language": "TypeScript",
+                "last_commit": "2026-08-07T11:36:08Z",
+                "owner": "ismail9k",
+                "repo": "vue3-carousel",
+                "stars": 880
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@vueform/multiselect",
+              "description": "Vue 3 multiselect component with single select, multiselect and tagging options (+Tailwind support). Online Demo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 320502889,
+                "language": "JavaScript",
+                "last_commit": "2024-11-23T16:15:41Z",
+                "owner": "vueform",
+                "repo": "multiselect",
+                "stars": 830
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue3-openlayers",
+              "description": "vue3-openlayers is components library that brings the powerful OpenLayers API to the Vue3 reactive world. It can display maps with tiled, raster or vector layers loaded from different sources. Live Demo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 376259658,
+                "language": "Vue",
+                "last_commit": "2026-02-27T15:31:01Z",
+                "owner": "MelihAltintas",
+                "repo": "vue3-openlayers",
+                "stars": 796
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-use-web",
+              "description": "🕸 Web APIs implemented as Vue.js composition functions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208273330,
+                "language": "TypeScript",
+                "last_commit": "2023-03-04T04:43:36Z",
+                "owner": "Tarektouati",
+                "repo": "vue-use-web",
+                "stars": 742
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vorms",
+              "description": "Vue Form Validate with Composition API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 486269705,
+                "language": "TypeScript",
+                "last_commit": "2024-11-02T10:03:31Z",
+                "owner": "Mini-ghost",
+                "repo": "vorms",
+                "stars": 720
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue3-dnd",
+              "description": "React DnD vue3 implementation, free drag via hooks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 469341360,
+                "language": "TypeScript",
+                "last_commit": "2025-04-15T00:58:51Z",
+                "owner": "hcg1023",
+                "repo": "vue3-dnd",
+                "stars": 713
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-float-menu",
+              "description": "Customizable Floating Menu for Vue 3",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 286817876,
+                "language": "Vue",
+                "last_commit": "2025-12-08T02:27:31Z",
+                "owner": "prabhuignoto",
+                "repo": "vue-float-menu",
+                "stars": 578
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-draggable-next",
+              "description": "🧱 A Vue 3 drag-and-drop component based on Sortable.js.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 287502011,
+                "language": "TypeScript",
+                "last_commit": "2025-08-19T20:54:51Z",
+                "owner": "anish2690",
+                "repo": "vue-draggable-next",
+                "stars": 557
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "harlem",
+              "description": "Simple, unopinionated, lightweight and extensible state management for Vue 3",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 300454424,
+                "language": "TypeScript",
+                "last_commit": "2024-06-03T00:06:34Z",
+                "owner": "andrewcourtice",
+                "repo": "harlem",
+                "stars": 515
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hy-app",
+              "description": "A Vue 3 and TypeScript UI component library for UniApp, providing mobile-first components, theme customization, dark mode support, and cross-platform compatibility.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1038466784,
+                "language": "Vue",
+                "last_commit": "2026-08-15T10:52:42Z",
+                "owner": "MrGao-hy",
+                "repo": "hy-design-uni",
+                "stars": 446
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-concurrency",
+              "description": "🚦 A library for encapsulating asynchronous operations and managing concurrency for Vue and Composition API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 264187302,
+                "language": "TypeScript",
+                "last_commit": "2026-01-22T00:32:49Z",
+                "owner": "MartinMalinda",
+                "repo": "vue-concurrency",
+                "stars": 359
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue3-touch-events",
+              "description": "Enable tap / swipe / touch / hold / mouse down / mouse up events for HTML DOM elements",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 363075293,
+                "language": "TypeScript",
+                "last_commit": "2025-12-03T14:38:02Z",
+                "owner": "robinrodricks",
+                "repo": "vue3-touch-events",
+                "stars": 342
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-cli-plugin-vue-next",
+              "description": "A Vue CLI plugin for trying out vue-next (experimental)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 231384793,
+                "language": "JavaScript",
+                "last_commit": "2023-01-05T16:22:55Z",
+                "owner": "vuejs",
+                "repo": "vue-cli-plugin-vue-next",
+                "stars": 338
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "qalendar",
+              "description": "A component library with an event calendar & datepicker.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 491762703,
+                "language": "TypeScript",
+                "last_commit": "2026-08-14T22:02:19Z",
+                "owner": "tomosterlund",
+                "repo": "qalendar",
+                "stars": 292
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-responsive-video-background-player",
+              "description": "Play your own videos in background responsively in different resolutions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 218025060,
+                "language": "Vue",
+                "last_commit": "2024-12-15T07:36:14Z",
+                "owner": "avidofood",
+                "repo": "vue-responsive-video-background-player",
+                "stars": 289
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@vueform/slider",
+              "description": "Vue 3 slider component with multihandles, tooltips merging and formatting (+Tailwind support). Online Demo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 325645504,
+                "language": "JavaScript",
+                "last_commit": "2024-06-16T10:45:05Z",
+                "owner": "vueform",
+                "repo": "slider",
+                "stars": 282
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-tailwind-datepicker",
+              "description": "A modern datepicker made with Tailwind for Vue 3",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532367370,
+                "language": "Vue",
+                "last_commit": "2026-07-10T15:07:33Z",
+                "owner": "elreco",
+                "repo": "vue-tailwind-datepicker",
+                "stars": 249
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vue Virtual Waterfall",
+              "description": "A vue3 virtual waterfall component",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 661007847,
+                "language": "Vue",
+                "last_commit": "2026-08-05T02:41:24Z",
+                "owner": "lhlyu",
+                "repo": "vue-virtual-waterfall",
+                "stars": 246
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-color-kit",
+              "description": "🎨 A Vue 3 color picker component. lightweight, modern, and no dependence.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 327888849,
+                "language": "Vue",
+                "last_commit": "2023-06-22T05:54:53Z",
+                "owner": "anish2690",
+                "repo": "vue-color-kit",
+                "stars": 213
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Toastflow",
+              "description": "💡 Headless toast (notification) engine + Vue 3 renderer (TS-first, CSS-first theming, highly customizable).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1101868212,
+                "language": "TypeScript",
+                "last_commit": "2026-07-12T15:58:18Z",
+                "owner": "adrianjanocko",
+                "repo": "toastflow",
+                "stars": 196
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-inline-svg",
+              "description": "Vue component loads an SVG source dynamically and inline so you can manipulate the style of it with CSS or JS. Works for Vue 2 and 3.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125382761,
+                "language": "TypeScript",
+                "last_commit": "2025-05-19T01:54:43Z",
+                "owner": "shrpne",
+                "repo": "vue-inline-svg",
+                "stars": 189
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "timer-hook",
+              "description": "Handle timer, stopwatch, and time logic/state in your vue 3 component.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 393392608,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T00:53:53Z",
+                "owner": "riderx",
+                "repo": "vue-timer-hook",
+                "stars": 182
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue3-datagrid",
+              "description": "Powerful virtual data grid spreadsheet for Vue 3 with advanced customization based on revogrid.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 331809588,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T10:08:44Z",
+                "owner": "revolist",
+                "repo": "vue3-datagrid",
+                "stars": 178
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vueuse",
+              "description": "🧰 Collection of essential Vue Composition API utils works for Vue 2 and 3",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 425119499,
+                "language": null,
+                "last_commit": "2021-10-18T03:36:49Z",
+                "owner": "antfu",
+                "repo": "vueuse",
+                "stars": 151
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-hooks-form",
+              "description": "Building forms with Vue composition API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 288740447,
+                "language": "TypeScript",
+                "last_commit": "2023-11-13T02:29:20Z",
+                "owner": "beizhedenglong",
+                "repo": "vue-hooks-form",
+                "stars": 149
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-simple-acl",
+              "description": "A simple unopinionated Vue plugin for managing user roles and permissions, access-control list (ACL) and role-based access control (RBAC).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 346550683,
+                "language": "TypeScript",
+                "last_commit": "2023-07-28T10:14:45Z",
+                "owner": "victorybiz",
+                "repo": "vue-simple-acl",
+                "stars": 137
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@vueform/toggle",
+              "description": "Vue 3 toggle component with labels, custom slots and styling options (+Tailwind support). Online Demo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 326946609,
+                "language": "JavaScript",
+                "last_commit": "2023-10-19T06:33:20Z",
+                "owner": "vueform",
+                "repo": "toggle",
+                "stars": 114
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-use-infinite-scroll",
+              "description": "♾️ A Vue composition function that makes infinite scroll a breeze",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 284088152,
+                "language": "TypeScript",
+                "last_commit": "2023-07-18T23:06:33Z",
+                "owner": "jfet97",
+                "repo": "vue-use-infinite-scroll",
+                "stars": 111
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Everright-filter",
+              "description": "A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 628910075,
+                "language": "JavaScript",
+                "last_commit": "2023-10-12T05:35:01Z",
+                "owner": "Liberty-liu",
+                "repo": "Everright-filter",
+                "stars": 111
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue3-blocks-tree",
+              "description": "A simple organization structure tree view based on Vue3.x. It supports events, slots, horizontal vision and nodes manipulation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 328681027,
+                "language": "Vue",
+                "last_commit": "2024-05-20T15:09:56Z",
+                "owner": "megafetis",
+                "repo": "vue3-blocks-tree",
+                "stars": 105
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-visual-filter",
+              "description": "An unopinionated visual filtering component for Vue 3.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 342504024,
+                "language": "Vue",
+                "last_commit": "2022-10-16T05:23:36Z",
+                "owner": "obadakhalili",
+                "repo": "visual-filter",
+                "stars": 99
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue3-qr-reader",
+              "description": "A Vue 3 QR reader component. Refactor vue-qrcode-reader for vue 3 compatibility.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 309895151,
+                "language": "Vue",
+                "last_commit": "2024-03-04T18:18:31Z",
+                "owner": "HJ29",
+                "repo": "vue3-qr-reader",
+                "stars": 91
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vuehooks",
+              "description": "🌟 Collection of utility composition functions for Vue",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 272569176,
+                "language": "TypeScript",
+                "last_commit": "2023-01-07T19:10:23Z",
+                "owner": "jsbroks",
+                "repo": "vuehooks",
+                "stars": 89
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "echarts-for-vue",
+              "description": "📊📈ECharts wrapper component for Vue 3 and 2",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 297591773,
+                "language": "JavaScript",
+                "last_commit": "2021-06-08T13:00:53Z",
+                "owner": "ambit-tsai",
+                "repo": "echarts-for-vue",
+                "stars": 82
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-compose-promise",
+              "description": "💝 Promises using vue composition API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 210888758,
+                "language": "TypeScript",
+                "last_commit": "2020-11-16T22:44:39Z",
+                "owner": "posva",
+                "repo": "vue-compose-promise",
+                "stars": 75
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-eternal-loading",
+              "description": "💚 Vue 3 infinity loading component for js, ts, browser, etc...",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 380816174,
+                "language": "TypeScript",
+                "last_commit": "2024-04-30T07:39:35Z",
+                "owner": "ts-pro",
+                "repo": "vue-eternal-loading",
+                "stars": 65
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue3-ui",
+              "description": "Very clean Vue 3 components styled with love and care to integrate nicely with Bulma CSS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 270925522,
+                "language": "TypeScript",
+                "last_commit": "2025-04-25T03:53:55Z",
+                "owner": "pathscale",
+                "repo": "vue3-ui",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue3-spring",
+              "description": "A spring-physics based animation library, in addition to more components, to cover most of the UI related animations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 268317901,
+                "language": "TypeScript",
+                "last_commit": "2023-03-04T22:03:00Z",
+                "owner": "ismail9k",
+                "repo": "vue3-spring",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-cookie-next",
+              "description": "🍪 A vue 3 plugin for handling browser cookies with typescript support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 286207001,
+                "language": "TypeScript",
+                "last_commit": "2023-12-04T21:27:15Z",
+                "owner": "anish2690",
+                "repo": "vue-cookie-next",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-condition-watcher",
+              "description": "🕶 Vue Composition API for automatic fetch data when condition has been changed",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 264894779,
+                "language": "TypeScript",
+                "last_commit": "2025-07-17T02:12:13Z",
+                "owner": "runkids",
+                "repo": "vue-condition-watcher",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue3-viewer",
+              "description": "Image viewer component for Vue 3, supports rotation, scale, zoom and so on.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 372237480,
+                "language": "Vue",
+                "last_commit": "2026-02-02T06:41:22Z",
+                "owner": "mirari",
+                "repo": "vue3-viewer",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-use-kit",
+              "description": "🛠️ Useful collection of Vue composition API functions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 239099371,
+                "language": "TypeScript",
+                "last_commit": "2023-05-07T23:33:09Z",
+                "owner": "microcipcip",
+                "repo": "vue-use-kit",
+                "stars": 46
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@casthub/embed",
+              "description": "iFrame Hook with cross-origin (a)synchronous IPC",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 384395829,
+                "language": "TypeScript",
+                "last_commit": "2023-11-11T09:11:48Z",
+                "owner": "evilkiwi",
+                "repo": "embed",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue3-tabs",
+              "description": "A swipeable tabs component for vue 3.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 304331030,
+                "language": "Vue",
+                "last_commit": "2022-04-16T06:56:26Z",
+                "owner": "HJ29",
+                "repo": "vue3-tabs",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@kolirt/vue-web3-auth",
+              "description": "Simple WalletConnect Web3Modal v2 integration package for Vue3 apps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 633157234,
+                "language": "TypeScript",
+                "last_commit": "2024-11-17T20:26:27Z",
+                "owner": "kolirt",
+                "repo": "vue-web3-auth",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-use-utilities",
+              "description": "🔧 A collection of Vue Composition API utilities",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 317276115,
+                "language": "TypeScript",
+                "last_commit": "2022-09-20T20:57:59Z",
+                "owner": "vueblocks",
+                "repo": "vue-use-utilities",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue3-scroll-picker",
+              "description": "A scroll picker component for Vue 3.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 298995294,
+                "language": "Vue",
+                "last_commit": "2021-04-23T12:25:46Z",
+                "owner": "HJ29",
+                "repo": "vue3-scroll-picker",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-tree-dnd",
+              "description": "A sortable drag-n-drop tree structure for Vue3 with no dependencies.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 680255487,
+                "language": "Vue",
+                "last_commit": "2025-06-17T02:25:32Z",
+                "owner": "jcuenod",
+                "repo": "vue-tree-dnd",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue3-pdfmake",
+              "description": "A PDFMake Plugin for Vue 3.x",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 410326387,
+                "language": "TypeScript",
+                "last_commit": "2025-05-18T22:07:55Z",
+                "owner": "betterwrite",
+                "repo": "vue-pdfmake",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@casthub/form",
+              "description": "Vue 3 Form Handling & Validation hook",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 390338532,
+                "language": "TypeScript",
+                "last_commit": "2023-11-11T09:04:24Z",
+                "owner": "evilkiwi",
+                "repo": "form",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-timeago3",
+              "description": "A timeago component. Render a timestamp to a Messenger like string.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 407826070,
+                "language": "TypeScript",
+                "last_commit": "2025-09-08T12:23:04Z",
+                "owner": "0x0dr1y",
+                "repo": "vue-timeago3",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@kolirt/vue-modal",
+              "description": "Easy to use and highly customizable Vue3 modal package.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 659707820,
+                "language": "TypeScript",
+                "last_commit": "2026-06-28T18:25:26Z",
+                "owner": "kolirt",
+                "repo": "vue-modal",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-file-upload",
+              "description": "A file management system built with and that allows for single and multiple file uploading with a preview feature",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 738052236,
+                "language": "TypeScript",
+                "last_commit": "2024-09-20T09:39:32Z",
+                "owner": "canopas",
+                "repo": "web-file-upload",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vue 3 social sharing",
+              "description": "Style agnostic Vue 3 plugin for sharing your links on major social networks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 759443308,
+                "language": "TypeScript",
+                "last_commit": "2026-08-08T04:04:55Z",
+                "owner": "hedint",
+                "repo": "vue3-social-sharing",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-3-sanitize",
+              "description": "HTML sanitizer for Vue.js 3 apps",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 298307899,
+                "language": "JavaScript",
+                "last_commit": "2021-08-23T08:21:07Z",
+                "owner": "Vannsl",
+                "repo": "vue-3-sanitize",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vite-plugin-robots",
+              "description": "Plugin for Vite to generating robots.txt for production and development builds.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 773517536,
+                "language": "TypeScript",
+                "last_commit": "2024-05-15T19:24:33Z",
+                "owner": "kolirt",
+                "repo": "vite-plugin-robots",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "validation-composable",
+              "description": "✅ Lightweight validation for Vue — just 40 lines of code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1041474513,
+                "language": "TypeScript",
+                "last_commit": "2025-08-29T08:31:03Z",
+                "owner": "nexxtmove",
+                "repo": "validation-composable",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-router-compositions",
+              "description": "VueRouter Composition-API utils library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 271607165,
+                "language": "TypeScript",
+                "last_commit": "2023-03-04T23:49:17Z",
+                "owner": "greenpress",
+                "repo": "vue-router-compositions",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-video-annotation",
+              "description": "Vue3 component that allows adding annotations to videos by free drawing or adding shapes like circles, squares, and arrows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 495566980,
+                "language": "Vue",
+                "last_commit": "2022-08-13T09:34:15Z",
+                "owner": "xwellingtonx",
+                "repo": "vue-video-annotation",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vue3 Pivottable",
+              "description": "A Vue 3 port of the jQuery-based PivotTable.js.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 934612538,
+                "language": "Vue",
+                "last_commit": "2026-04-05T13:29:57Z",
+                "owner": "vue-pivottable",
+                "repo": "vue3-pivottable",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-middleware",
+              "description": "A lightweight and powerful Vue3 plugin for creating custom middlewares and manage roles and permissions with zero-config.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 792281175,
+                "language": "TypeScript",
+                "last_commit": "2024-06-18T00:13:32Z",
+                "owner": "themustafaomar",
+                "repo": "vue-middleware",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "superBVue",
+              "description": "A Vue 3 UI Components for Web is based on boostrap 5.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 319321555,
+                "language": "TypeScript",
+                "last_commit": "2021-01-05T08:23:14Z",
+                "owner": "superbvue",
+                "repo": "SuperBVue",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "V-privacy",
+              "description": "A Vue 3 plugin that allows you to manage the privacy of an HTML element by blurring its content and optional encrypt node text data in DOM.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 624994636,
+                "language": "TypeScript",
+                "last_commit": "2023-05-11T18:39:07Z",
+                "owner": "fchancel",
+                "repo": "v-privacy",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vue USWDS",
+              "description": "A Vue.js implementation of the USWDS (U.S. Web Design System)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 407870605,
+                "language": "JavaScript",
+                "last_commit": "2026-05-25T17:23:07Z",
+                "owner": "patrickcate",
+                "repo": "vue-uswds",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue3-fullscreen",
+              "description": "A simple Vue 3 component for fullscreen.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 372233485,
+                "language": "Vue",
+                "last_commit": "2024-09-26T09:31:09Z",
+                "owner": "mirari",
+                "repo": "vue3-fullscreen",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vue BaseTooltip",
+              "description": "A simple and performant tooltip plugin using Floating UI.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 537754663,
+                "language": "TypeScript",
+                "last_commit": "2022-12-06T18:35:33Z",
+                "owner": "CarlLDreyer",
+                "repo": "vue-base-tooltip",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-use-switch-map",
+              "description": "👽 The power of the RxJS switchMap operator injected into the Vue composition world",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 282719388,
+                "language": "TypeScript",
+                "last_commit": "2023-01-06T12:35:25Z",
+                "owner": "jfet97",
+                "repo": "vue-use-switch-map",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-visibility",
+              "description": "Vue plugin that hides or shows elements depending of a criteria. 👀",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 287773412,
+                "language": "JavaScript",
+                "last_commit": "2024-06-18T04:23:18Z",
+                "owner": "lewandy",
+                "repo": "vue-visibility",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-highlight",
+              "description": "Vue 3 directive for highlight.js.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 312987044,
+                "language": "JavaScript",
+                "last_commit": "2021-05-08T04:06:15Z",
+                "owner": "point-hub",
+                "repo": "vue-highlight",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-contentful-rich-text",
+              "description": "🦉 Vue 3 package for outputting a Contentful Rich Text Field",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 334282174,
+                "language": "JavaScript",
+                "last_commit": "2021-02-11T23:32:18Z",
+                "owner": "Anivive",
+                "repo": "vue-contentful-rich-text",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "v-hide directive",
+              "description": "v-hide directive to accompany v-if and v-show, but keep hidden space in layout",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 642168977,
+                "language": "Vue",
+                "last_commit": "2023-06-30T23:20:26Z",
+                "owner": "ventralnet",
+                "repo": "v-hide",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-composition-toolkit",
+              "description": "💚 Vue3 Composition-API toolkit",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 218796502,
+                "language": "TypeScript",
+                "last_commit": "2019-11-06T07:13:49Z",
+                "owner": "soouup",
+                "repo": "vue-composition-toolkit",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue3-dynamic-tabs",
+              "description": "A Vue3 tabs component to easily display tabs, however and wherever you want.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 450748878,
+                "language": "Vue",
+                "last_commit": "2022-02-05T15:59:57Z",
+                "owner": "Tapha",
+                "repo": "vue3-dynamic-tabs",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vue 3 Easter Egg Trigger",
+              "description": "This packages makes it nice and easy to add Easter Egg triggers to your Vue3 site.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 591416140,
+                "language": "Vue",
+                "last_commit": "2024-01-17T21:01:25Z",
+                "owner": "webdevnerdstuff",
+                "repo": "vue3-easter-egg-trigger",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Equal UI",
+              "description": "Vue 3 components library with 30+ components based on TypeScript and Equal design system.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 788105128,
+                "language": "HTML",
+                "last_commit": "2024-04-17T19:38:15Z",
+                "owner": "quatrochan",
+                "repo": "Equal",
+                "stars": 0
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-02-04T13:10:54Z",
-            "owner": "vitejs",
-            "repo": "awesome-vite",
-            "stars": 17221
-          }
+          "node_type": "group",
+          "title": "Packages"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "vue3-realworld-example-app",
+              "description": "Realworld app implementation using Vue 3 + TypeScript + Composition Api",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 299052942,
+                "language": "TypeScript",
+                "last_commit": "2026-08-01T19:13:30Z",
+                "owner": "mutoe",
+                "repo": "vue3-realworld-example-app",
+                "stars": 1077
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Materio-vuetify-vuejs-admin-template-free",
+              "description": "A Production ready, carefully crafted, most comprehensive Vuetify Vuejs admin template.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 395547673,
+                "language": "Vue",
+                "last_commit": "2025-01-01T12:32:08Z",
+                "owner": "themeselection",
+                "repo": "materio-vuetify-vuejs-admin-template-free",
+                "stars": 962
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Materio-vuetify-vuejs-admin-template-free",
+              "description": "A Production ready, carefully crafted, most comprehensive Vuetify Vuejs admin template.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 395547673,
+                "language": "Vue",
+                "last_commit": "2025-01-01T12:32:08Z",
+                "owner": "themeselection",
+                "repo": "materio-vuetify-vuejs-admin-template-free",
+                "stars": 962
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue3-vite2-chrome-extension-demo",
+              "description": "A note-taking chrome extension built by Vue3 & Vite2.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 403496146,
+                "language": "Vue",
+                "last_commit": "2022-05-19T02:31:59Z",
+                "owner": "betterRunner",
+                "repo": "context-note",
+                "stars": 717
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CoreUI for Vue",
+              "description": "An Open Source UI components library for Vue 3",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123009362,
+                "language": "MDX",
+                "last_commit": "2026-08-18T09:13:57Z",
+                "owner": "coreui",
+                "repo": "coreui-vue",
+                "stars": 642
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "composition-api-demos",
+              "description": "A Vue.js app demonstarting various use cases for the new composition API",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 204331717,
+                "language": "JavaScript",
+                "last_commit": "2021-03-12T08:32:52Z",
+                "owner": "LinusBorg",
+                "repo": "composition-api-demos",
+                "stars": 507
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vite-tailwind-starter",
+              "description": "Starter using Vite + Tailwind for super fast prototyping",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 261884907,
+                "language": "Vue",
+                "last_commit": "2026-08-10T06:10:52Z",
+                "owner": "posva",
+                "repo": "vite-tailwind-starter",
+                "stars": 458
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-next-webpack-preview",
+              "description": "Minimal webpack setup for Vue 3 (beta)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 229326433,
+                "language": "JavaScript",
+                "last_commit": "2021-06-28T17:52:46Z",
+                "owner": "vuejs",
+                "repo": "vue-next-webpack-preview",
+                "stars": 417
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-3-reactivity",
+              "description": "Code from the Vue 3 Reactivity course",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 240594933,
+                "language": "JavaScript",
+                "last_commit": "2026-05-01T10:38:33Z",
+                "owner": "Code-Pop",
+                "repo": "vue-3-reactivity",
+                "stars": 267
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tailwindadmin",
+              "description": "A free, open-source Shadcn UI admin dashboard template supporting React, Next.js, Angular, and Vue.js.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1049791383,
+                "language": "TypeScript",
+                "last_commit": "2026-05-26T11:49:14Z",
+                "owner": "Tailwind-Admin",
+                "repo": "free-tailwind-admin-dashboard-template",
+                "stars": 254
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Materio-vuetify-vuejs-laravel-admin-template-free",
+              "description": "Open-source & easy to use Vuetify Vuejs Laravel Admin Template with Elegant Design & Unique Layout.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 409110340,
+                "language": "Vue",
+                "last_commit": "2025-01-01T12:43:04Z",
+                "owner": "themeselection",
+                "repo": "materio-vuetify-vuejs-laravel-admin-template-free",
+                "stars": 231
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vue3Todo",
+              "description": "A repository showcasing the new Vue 3.0 Composition API with simple examples",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 202880816,
+                "language": "Vue",
+                "last_commit": "2023-01-04T07:27:50Z",
+                "owner": "ShetlandJ",
+                "repo": "Vue3Todo",
+                "stars": 218
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sneat Free Vuetify VueJS Admin Template",
+              "description": "A Production ready, carefully crafted, most comprehensive Opensource & Free Vuejs admin template.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 646837628,
+                "language": "Vue",
+                "last_commit": "2025-01-01T12:37:57Z",
+                "owner": "themeselection",
+                "repo": "sneat-vuetify-vuejs-admin-template-free",
+                "stars": 140
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "todomvc-vue-composition-api",
+              "description": "TodoMVC built with Vue 3 Composition Api and Vuex",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 253186880,
+                "language": "JavaScript",
+                "last_commit": "2023-03-15T00:01:02Z",
+                "owner": "gs00s",
+                "repo": "todomvc-vue-composition-api",
+                "stars": 126
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vite-wind",
+              "description": "Boilerplate with Tailwind CSS, TypeScript, css-pro-layout, 9+ components and dark mode support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 329448877,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T20:14:12Z",
+                "owner": "boussadjra",
+                "repo": "vuestrata",
+                "stars": 111
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vite-wind",
+              "description": "Boilerplate with Tailwind CSS, TypeScript, css-pro-layout, 9+ components and dark mode support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 329448877,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T20:14:12Z",
+                "owner": "boussadjra",
+                "repo": "vuestrata",
+                "stars": 111
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue3-md-blog",
+              "description": "✍️ Minimal config Vue3 + Markdown blog engine",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 191633371,
+                "language": "Vue",
+                "last_commit": "2024-07-16T12:21:58Z",
+                "owner": "yeikiu",
+                "repo": "vue3-md-blog",
+                "stars": 80
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vue3 Starter Template",
+              "description": "= A Vue3 starter kit with full authentication routes, payment support, multilingual abilities, a global event bus, meta+schema tag generators, and more!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 561723709,
+                "language": "TypeScript",
+                "last_commit": "2025-05-22T09:27:09Z",
+                "owner": "M-Media-Group",
+                "repo": "Vue3-SPA-starter-template",
+                "stars": 72
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue3-webpack-boilerplate",
+              "description": "Vue 3 Webpack Boilerplate (Vue 3, Vue Router 4, Vuex 4, Typescript)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 248725271,
+                "language": "Vue",
+                "last_commit": "2020-07-19T03:10:07Z",
+                "owner": "starkovsky",
+                "repo": "vue3-webpack-boilerplate",
+                "stars": 70
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-ts-starter",
+              "description": "Vue template for starter using Vue3 + TypeScript + Vite + Pinia 🚀 - Demo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 494429455,
+                "language": "TypeScript",
+                "last_commit": "2024-11-28T03:46:43Z",
+                "owner": "yugasun",
+                "repo": "vue-ts-starter",
+                "stars": 69
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "YummyAdmin",
+              "description": "📈 Totaly free Vue 3 Dashboard template based on NaiveUI, Typescript, MSW, Tailwindcss, multilanguage, fully RTL support and production ready.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 683971681,
+                "language": "Vue",
+                "last_commit": "2026-06-16T07:26:33Z",
+                "owner": "doroudi",
+                "repo": "YummyAdmin",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Modernize VueJs Template",
+              "description": "Modernize Vue 3 + Vite + TypeScript + Vuetify 3 Admin Template.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 599052036,
+                "language": "Vue",
+                "last_commit": "2026-05-20T13:43:58Z",
+                "owner": "adminmart",
+                "repo": "Modernize-vuejs-free",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "movie-search-vue",
+              "description": "Movie search app with the Vue 3 Composition API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 215221279,
+                "language": "Vue",
+                "last_commit": "2023-01-06T02:13:39Z",
+                "owner": "gs00s",
+                "repo": "movie-search-vue",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue3-ssr-realworld-example-app",
+              "description": "Realworld app implementation using Vue 3 with SSR",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 312054366,
+                "language": "Vue",
+                "last_commit": "2022-10-14T08:34:21Z",
+                "owner": "levchak0910",
+                "repo": "vue3-ssr-realworld-example-app",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sneat-free-vuetify-nuxtjs-admin-template",
+              "description": "Open Source NuxtJS admin template based on latest Vuetify, NuxtJS 3, Vue 3 & Typescript for developing responsive web apps with ease.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 825674784,
+                "language": "Vue",
+                "last_commit": "2025-01-01T12:42:47Z",
+                "owner": "themeselection",
+                "repo": "sneat-vuetify-nuxtjs-admin-template-free",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Material Pro Vuetify Admin Template",
+              "description": "A Beautiful Vuetify Admin Template.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 266685353,
+                "language": "Vue",
+                "last_commit": "2025-10-03T11:38:20Z",
+                "owner": "wrappixel",
+                "repo": "materialpro-vuetify-lite",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue3-compact-template",
+              "description": "⚡️ A simple and compact vue 3 template with current cutting edge front end technologies.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 423592338,
+                "language": "Vue",
+                "last_commit": "2021-12-08T14:53:07Z",
+                "owner": "upupming",
+                "repo": "vue3-compact-template",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenClaw Monitor",
+              "description": "Real-time monitoring dashboard for OpenClaw AI agents — token usage, session tracking, 7-day trends.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1214883054,
+                "language": "JavaScript",
+                "last_commit": "2026-05-14T14:08:28Z",
+                "owner": "flik2002",
+                "repo": "openclaw-monitor",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-cart with import-maps",
+              "description": "Basic Shopping Cart with Vue ES Module and Composition API (without bundler or build step)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 276334677,
+                "language": "JavaScript",
+                "last_commit": "2022-12-06T11:42:11Z",
+                "owner": "aelbore",
+                "repo": "vue-cart",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-dapp",
+              "description": "Vue 3 library for building Dapps with ethers.js.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 699748322,
+                "language": "TypeScript",
+                "last_commit": "2025-05-10T12:48:15Z",
+                "owner": "johnson86tw",
+                "repo": "vue-dapp",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue3 MineSweeper game",
+              "description": "A vue 3 implemention of classical MineSweeper retro game",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 591741722,
+                "language": "TypeScript",
+                "last_commit": "2023-01-25T16:07:37Z",
+                "owner": "LeonardoSalvucci",
+                "repo": "mine-sweeper",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vue3 Atomic Design",
+              "description": "A Vue3 boilerplate based on atomic design methodology",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 621781625,
+                "language": "Vue",
+                "last_commit": "2023-03-31T11:26:40Z",
+                "owner": "alexander-elgin",
+                "repo": "vue3-atomic-design",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue3-default-preset-demo",
+              "description": "A demo app the new Vue 3.0 Composition API, Vuex, Router.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 402077756,
+                "language": "Vue",
+                "last_commit": "2021-09-09T13:45:09Z",
+                "owner": "oleksa-source",
+                "repo": "vue3-default-preset-demo",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Examples"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "vue3-sfc-loader",
+              "description": "Load .vue files directly from your html/js. No node.js environment, no (webpack) build step.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 314497229,
+                "language": "JavaScript",
+                "last_commit": "2024-09-27T10:48:21Z",
+                "owner": "FranckFreiburger",
+                "repo": "vue3-sfc-loader",
+                "stars": 1354
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vue-Cheatsheet",
+              "description": "An interactive cheatsheet of Vue, Vue Router and, Pinia",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 741330814,
+                "language": "Vue",
+                "last_commit": "2024-04-23T19:50:17Z",
+                "owner": "themeselection",
+                "repo": "vue-cheatsheet",
+                "stars": 219
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-composable-starter",
+              "description": "🪝 Minimalist starting point for your next Vue composable.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 326082210,
+                "language": "TypeScript",
+                "last_commit": "2022-08-14T06:18:32Z",
+                "owner": "Tahul",
+                "repo": "vue-composable-starter",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aria-vue",
+              "description": "Headless testing with Vite + Vue + Vue-Testting-Utils",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 190205099,
+                "language": "TypeScript",
+                "last_commit": "2022-06-25T18:13:22Z",
+                "owner": "aelbore",
+                "repo": "aria-vue",
+                "stars": 22
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tools"
         }
       ],
-      "title": "Related awesome lists"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "vite",
-          "description": "Next generation frontend tooling. It's fast.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T10:12:59Z",
-            "owner": "vitejs",
-            "repo": "vite",
-            "stars": 82390
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-next",
-          "description": "Repo for Vue 3.0",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T12:53:02Z",
-            "owner": "vuejs",
-            "repo": "core",
-            "stars": 54212
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "headlessui-vue",
-          "description": "A set of completely unstyled, fully accessible UI components for Vue 3, designed to integrate beautifully with Tailwind CSS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-13T16:12:31Z",
-            "owner": "tailwindlabs",
-            "repo": "headlessui",
-            "stars": 28710
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vant",
-          "description": "Lightweight Mobile UI Components built on Vue 3",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T01:42:21Z",
-            "owner": "youzan",
-            "repo": "vant",
-            "stars": 24363
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vitepress",
-          "description": "Vite & Vue powered static site generator",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T10:59:08Z",
-            "owner": "vuejs",
-            "repo": "vitepress",
-            "stars": 18197
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vee-validate",
-          "description": "VeeValidate (v4) Vue 3 Template driven form validation",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-03-04T07:08:06Z",
-            "owner": "logaretm",
-            "repo": "vee-validate",
-            "stars": 11259
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "particles.vue3",
-          "description": "A lightweight library for easily create highly customizable particles animations for websites",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-13T07:05:44Z",
-            "owner": "tsparticles",
-            "repo": "tsparticles",
-            "stars": 8953
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vuelidate-next",
-          "description": "Vuelidate (next) - Simple, lightweight model-based validation",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-06-10T10:49:50Z",
-            "owner": "vuelidate",
-            "repo": "vuelidate",
-            "stars": 6874
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-router-next",
-          "description": "The Vue 3 official router (WIP)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T10:22:22Z",
-            "owner": "vuejs",
-            "repo": "router",
-            "stars": 4667
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "composition-api",
-          "description": "Vue2 plugin for the Composition API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-08-15T11:08:15Z",
-            "owner": "vuejs",
-            "repo": "composition-api",
-            "stars": 4181
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vuestic-ui",
-          "description": "Vue.js 3.0 UI Library",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2026-05-09T13:59:58Z",
-            "owner": "epicmaxco",
-            "repo": "vuestic-ui",
-            "stars": 3747
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Virtua",
-          "description": "A zero-config, fast and small (~3kB) virtual list component for React, Vue and Solid.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T14:40:34Z",
-            "owner": "inokawa",
-            "repo": "virtua",
-            "stars": 3717
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-toastification",
-          "description": "🍞 Light, easy, and beautiful Toasts for Vue 2 and 3.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-02-27T09:38:14Z",
-            "owner": "Maronato",
-            "repo": "vue-toastification",
-            "stars": 3369
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "markstream-vue",
-          "description": "A Vue 3 streaming Markdown renderer for AI chat, supporting incomplete Markdown, Mermaid, KaTeX, long responses, and streaming code blocks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2026-08-18T07:48:33Z",
-            "owner": "Simon-He95",
-            "repo": "markstream-vue",
-            "stars": 2898
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-smooth-dnd",
-          "description": "A fast and lightweight drag&drop, sortable library for Vue.js with many configuration options covering many d&d scenarios.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-09-23T17:52:58Z",
-            "owner": "kutlugsahin",
-            "repo": "vue-smooth-dnd",
-            "stars": 1835
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@vuepic/vue-datepicker",
-          "description": "The most complete datepicker solution for Vue 3",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-08T22:10:49Z",
-            "owner": "Vuepic",
-            "repo": "vue-datepicker",
-            "stars": 1763
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-quill",
-          "description": "✒️📝 A Vue 3 rich text editor component based on Quill Editor. See a Live Demo.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-16T23:15:27Z",
-            "owner": "vueup",
-            "repo": "vue-quill",
-            "stars": 1345
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-advanced-cropper",
-          "description": "The advanced vue cropper library that gives you opportunity to create your own croppers suited for any website design.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2024-06-09T10:02:48Z",
-            "owner": "advanced-cropper",
-            "repo": "vue-advanced-cropper",
-            "stars": 1183
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-composable",
-          "description": "Vue composition-api composable components",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-02-03T05:13:30Z",
-            "owner": "pikax",
-            "repo": "vue-composable",
-            "stars": 1178
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-test-utils-next",
-          "description": "The next iteration of Vue Test Utils, targeting Vue 3",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T15:28:56Z",
-            "owner": "vuejs",
-            "repo": "test-utils",
-            "stars": 1154
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fast-crud",
-          "description": "Options-oriented crud framework, developing crud as fast as lightning",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-15T16:41:41Z",
-            "owner": "fast-crud",
-            "repo": "fast-crud",
-            "stars": 1144
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-final-modal",
-          "description": "A renderless, lightweight, feature-rich modal component for Vue 3.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-09-10T15:49:26Z",
-            "owner": "vue-final",
-            "repo": "vue-final-modal",
-            "stars": 1008
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue3-carousel",
-          "description": "Modern lightweight carousel component built for Vue 3.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-07T11:36:08Z",
-            "owner": "ismail9k",
-            "repo": "vue3-carousel",
-            "stars": 880
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@vueform/multiselect",
-          "description": "Vue 3 multiselect component with single select, multiselect and tagging options (+Tailwind support). Online Demo",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-11-23T16:15:41Z",
-            "owner": "vueform",
-            "repo": "multiselect",
-            "stars": 830
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue3-openlayers",
-          "description": "vue3-openlayers is components library that brings the powerful OpenLayers API to the Vue3 reactive world. It can display maps with tiled, raster or vector layers loaded from different sources. Live Demo",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2026-02-27T15:31:01Z",
-            "owner": "MelihAltintas",
-            "repo": "vue3-openlayers",
-            "stars": 796
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-use-web",
-          "description": "🕸 Web APIs implemented as Vue.js composition functions",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-03-04T04:43:36Z",
-            "owner": "Tarektouati",
-            "repo": "vue-use-web",
-            "stars": 742
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vorms",
-          "description": "Vue Form Validate with Composition API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-11-02T10:03:31Z",
-            "owner": "Mini-ghost",
-            "repo": "vorms",
-            "stars": 720
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue3-dnd",
-          "description": "React DnD vue3 implementation, free drag via hooks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-04-15T00:58:51Z",
-            "owner": "hcg1023",
-            "repo": "vue3-dnd",
-            "stars": 713
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-float-menu",
-          "description": "Customizable Floating Menu for Vue 3",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2025-12-08T02:27:31Z",
-            "owner": "prabhuignoto",
-            "repo": "vue-float-menu",
-            "stars": 578
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-draggable-next",
-          "description": "🧱 A Vue 3 drag-and-drop component based on Sortable.js.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-08-19T20:54:51Z",
-            "owner": "anish2690",
-            "repo": "vue-draggable-next",
-            "stars": 557
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "harlem",
-          "description": "Simple, unopinionated, lightweight and extensible state management for Vue 3",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-06-03T00:06:34Z",
-            "owner": "andrewcourtice",
-            "repo": "harlem",
-            "stars": 515
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hy-app",
-          "description": "A Vue 3 and TypeScript UI component library for UniApp, providing mobile-first components, theme customization, dark mode support, and cross-platform compatibility.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2026-08-15T10:52:42Z",
-            "owner": "MrGao-hy",
-            "repo": "hy-design-uni",
-            "stars": 445
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-concurrency",
-          "description": "🚦 A library for encapsulating asynchronous operations and managing concurrency for Vue and Composition API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-01-22T00:32:49Z",
-            "owner": "MartinMalinda",
-            "repo": "vue-concurrency",
-            "stars": 359
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue3-touch-events",
-          "description": "Enable tap / swipe / touch / hold / mouse down / mouse up events for HTML DOM elements",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-12-03T14:38:02Z",
-            "owner": "robinrodricks",
-            "repo": "vue3-touch-events",
-            "stars": 339
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-cli-plugin-vue-next",
-          "description": "A Vue CLI plugin for trying out vue-next (experimental)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-05T16:22:55Z",
-            "owner": "vuejs",
-            "repo": "vue-cli-plugin-vue-next",
-            "stars": 338
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "qalendar",
-          "description": "A component library with an event calendar & datepicker.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-14T22:02:19Z",
-            "owner": "tomosterlund",
-            "repo": "qalendar",
-            "stars": 292
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-responsive-video-background-player",
-          "description": "Play your own videos in background responsively in different resolutions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2024-12-15T07:36:14Z",
-            "owner": "avidofood",
-            "repo": "vue-responsive-video-background-player",
-            "stars": 289
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@vueform/slider",
-          "description": "Vue 3 slider component with multihandles, tooltips merging and formatting (+Tailwind support). Online Demo",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-06-16T10:45:05Z",
-            "owner": "vueform",
-            "repo": "slider",
-            "stars": 282
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-tailwind-datepicker",
-          "description": "A modern datepicker made with Tailwind for Vue 3",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2026-07-10T15:07:33Z",
-            "owner": "elreco",
-            "repo": "vue-tailwind-datepicker",
-            "stars": 249
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vue Virtual Waterfall",
-          "description": "A vue3 virtual waterfall component",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2026-08-05T02:41:24Z",
-            "owner": "lhlyu",
-            "repo": "vue-virtual-waterfall",
-            "stars": 246
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-color-kit",
-          "description": "🎨 A Vue 3 color picker component. lightweight, modern, and no dependence.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2023-06-22T05:54:53Z",
-            "owner": "anish2690",
-            "repo": "vue-color-kit",
-            "stars": 213
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Toastflow",
-          "description": "💡 Headless toast (notification) engine + Vue 3 renderer (TS-first, CSS-first theming, highly customizable).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-12T15:58:18Z",
-            "owner": "adrianjanocko",
-            "repo": "toastflow",
-            "stars": 196
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-inline-svg",
-          "description": "Vue component loads an SVG source dynamically and inline so you can manipulate the style of it with CSS or JS. Works for Vue 2 and 3.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-05-19T01:54:43Z",
-            "owner": "shrpne",
-            "repo": "vue-inline-svg",
-            "stars": 189
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "timer-hook",
-          "description": "Handle timer, stopwatch, and time logic/state in your vue 3 component.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T00:53:53Z",
-            "owner": "riderx",
-            "repo": "vue-timer-hook",
-            "stars": 182
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue3-datagrid",
-          "description": "Powerful virtual data grid spreadsheet for Vue 3 with advanced customization based on revogrid.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T10:08:44Z",
-            "owner": "revolist",
-            "repo": "vue3-datagrid",
-            "stars": 178
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vueuse",
-          "description": "🧰 Collection of essential Vue Composition API utils works for Vue 2 and 3",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-10-18T03:36:49Z",
-            "owner": "antfu",
-            "repo": "vueuse",
-            "stars": 151
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-hooks-form",
-          "description": "Building forms with Vue composition API",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-11-13T02:29:20Z",
-            "owner": "beizhedenglong",
-            "repo": "vue-hooks-form",
-            "stars": 149
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-simple-acl",
-          "description": "A simple unopinionated Vue plugin for managing user roles and permissions, access-control list (ACL) and role-based access control (RBAC).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-07-28T10:14:45Z",
-            "owner": "victorybiz",
-            "repo": "vue-simple-acl",
-            "stars": 137
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@vueform/toggle",
-          "description": "Vue 3 toggle component with labels, custom slots and styling options (+Tailwind support). Online Demo",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-10-19T06:33:20Z",
-            "owner": "vueform",
-            "repo": "toggle",
-            "stars": 114
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-use-infinite-scroll",
-          "description": "♾️ A Vue composition function that makes infinite scroll a breeze",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-07-18T23:06:33Z",
-            "owner": "jfet97",
-            "repo": "vue-use-infinite-scroll",
-            "stars": 111
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Everright-filter",
-          "description": "A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-10-12T05:35:01Z",
-            "owner": "Liberty-liu",
-            "repo": "Everright-filter",
-            "stars": 111
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue3-blocks-tree",
-          "description": "A simple organization structure tree view based on Vue3.x. It supports events, slots, horizontal vision and nodes manipulation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2024-05-20T15:09:56Z",
-            "owner": "megafetis",
-            "repo": "vue3-blocks-tree",
-            "stars": 105
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-visual-filter",
-          "description": "An unopinionated visual filtering component for Vue 3.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2022-10-16T05:23:36Z",
-            "owner": "obadakhalili",
-            "repo": "visual-filter",
-            "stars": 99
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue3-qr-reader",
-          "description": "A Vue 3 QR reader component. Refactor vue-qrcode-reader for vue 3 compatibility.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2024-03-04T18:18:31Z",
-            "owner": "HJ29",
-            "repo": "vue3-qr-reader",
-            "stars": 91
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vuehooks",
-          "description": "🌟 Collection of utility composition functions for Vue",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-07T19:10:23Z",
-            "owner": "jsbroks",
-            "repo": "vuehooks",
-            "stars": 89
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "echarts-for-vue",
-          "description": "📊📈ECharts wrapper component for Vue 3 and 2",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-06-08T13:00:53Z",
-            "owner": "ambit-tsai",
-            "repo": "echarts-for-vue",
-            "stars": 82
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-compose-promise",
-          "description": "💝 Promises using vue composition API",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2020-11-16T22:44:39Z",
-            "owner": "posva",
-            "repo": "vue-compose-promise",
-            "stars": 75
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-eternal-loading",
-          "description": "💚 Vue 3 infinity loading component for js, ts, browser, etc...",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-04-30T07:39:35Z",
-            "owner": "ts-pro",
-            "repo": "vue-eternal-loading",
-            "stars": 65
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue3-ui",
-          "description": "Very clean Vue 3 components styled with love and care to integrate nicely with Bulma CSS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-04-25T03:53:55Z",
-            "owner": "pathscale",
-            "repo": "vue3-ui",
-            "stars": 57
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue3-spring",
-          "description": "A spring-physics based animation library, in addition to more components, to cover most of the UI related animations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-03-04T22:03:00Z",
-            "owner": "ismail9k",
-            "repo": "vue3-spring",
-            "stars": 54
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-cookie-next",
-          "description": "🍪 A vue 3 plugin for handling browser cookies with typescript support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-12-04T21:27:15Z",
-            "owner": "anish2690",
-            "repo": "vue-cookie-next",
-            "stars": 51
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-condition-watcher",
-          "description": "🕶 Vue Composition API for automatic fetch data when condition has been changed",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-07-17T02:12:13Z",
-            "owner": "runkids",
-            "repo": "vue-condition-watcher",
-            "stars": 48
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue3-viewer",
-          "description": "Image viewer component for Vue 3, supports rotation, scale, zoom and so on.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2026-02-02T06:41:22Z",
-            "owner": "mirari",
-            "repo": "vue3-viewer",
-            "stars": 48
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-use-kit",
-          "description": "🛠️ Useful collection of Vue composition API functions",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-05-07T23:33:09Z",
-            "owner": "microcipcip",
-            "repo": "vue-use-kit",
-            "stars": 46
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@casthub/embed",
-          "description": "iFrame Hook with cross-origin (a)synchronous IPC",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-11-11T09:11:48Z",
-            "owner": "evilkiwi",
-            "repo": "embed",
-            "stars": 44
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue3-tabs",
-          "description": "A swipeable tabs component for vue 3.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2022-04-16T06:56:26Z",
-            "owner": "HJ29",
-            "repo": "vue3-tabs",
-            "stars": 41
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@kolirt/vue-web3-auth",
-          "description": "Simple WalletConnect Web3Modal v2 integration package for Vue3 apps.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-11-17T20:26:27Z",
-            "owner": "kolirt",
-            "repo": "vue-web3-auth",
-            "stars": 37
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-use-utilities",
-          "description": "🔧 A collection of Vue Composition API utilities",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-09-20T20:57:59Z",
-            "owner": "vueblocks",
-            "repo": "vue-use-utilities",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue3-scroll-picker",
-          "description": "A scroll picker component for Vue 3.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2021-04-23T12:25:46Z",
-            "owner": "HJ29",
-            "repo": "vue3-scroll-picker",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-tree-dnd",
-          "description": "A sortable drag-n-drop tree structure for Vue3 with no dependencies.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2025-06-17T02:25:32Z",
-            "owner": "jcuenod",
-            "repo": "vue-tree-dnd",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue3-pdfmake",
-          "description": "A PDFMake Plugin for Vue 3.x",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-05-18T22:07:55Z",
-            "owner": "betterwrite",
-            "repo": "vue-pdfmake",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@casthub/form",
-          "description": "Vue 3 Form Handling & Validation hook",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-11-11T09:04:24Z",
-            "owner": "evilkiwi",
-            "repo": "form",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-timeago3",
-          "description": "A timeago component. Render a timestamp to a Messenger like string.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2025-09-08T12:23:04Z",
-            "owner": "0x0dr1y",
-            "repo": "vue-timeago3",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@kolirt/vue-modal",
-          "description": "Easy to use and highly customizable Vue3 modal package.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-28T18:25:26Z",
-            "owner": "kolirt",
-            "repo": "vue-modal",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-file-upload",
-          "description": "A file management system built with and that allows for single and multiple file uploading with a preview feature",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-09-20T09:39:32Z",
-            "owner": "canopas",
-            "repo": "web-file-upload",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vue 3 social sharing",
-          "description": "Style agnostic Vue 3 plugin for sharing your links on major social networks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-08T04:04:55Z",
-            "owner": "hedint",
-            "repo": "vue3-social-sharing",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-3-sanitize",
-          "description": "HTML sanitizer for Vue.js 3 apps",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-08-23T08:21:07Z",
-            "owner": "Vannsl",
-            "repo": "vue-3-sanitize",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vite-plugin-robots",
-          "description": "Plugin for Vite to generating robots.txt for production and development builds.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-05-15T19:24:33Z",
-            "owner": "kolirt",
-            "repo": "vite-plugin-robots",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "validation-composable",
-          "description": "✅ Lightweight validation for Vue — just 40 lines of code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-08-29T08:31:03Z",
-            "owner": "nexxtmove",
-            "repo": "validation-composable",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-router-compositions",
-          "description": "VueRouter Composition-API utils library",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-03-04T23:49:17Z",
-            "owner": "greenpress",
-            "repo": "vue-router-compositions",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-video-annotation",
-          "description": "Vue3 component that allows adding annotations to videos by free drawing or adding shapes like circles, squares, and arrows.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2022-08-13T09:34:15Z",
-            "owner": "xwellingtonx",
-            "repo": "vue-video-annotation",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vue3 Pivottable",
-          "description": "A Vue 3 port of the jQuery-based PivotTable.js.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2026-04-05T13:29:57Z",
-            "owner": "vue-pivottable",
-            "repo": "vue3-pivottable",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-middleware",
-          "description": "A lightweight and powerful Vue3 plugin for creating custom middlewares and manage roles and permissions with zero-config.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-06-18T00:13:32Z",
-            "owner": "themustafaomar",
-            "repo": "vue-middleware",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "superBVue",
-          "description": "A Vue 3 UI Components for Web is based on boostrap 5.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2021-01-05T08:23:14Z",
-            "owner": "superbvue",
-            "repo": "SuperBVue",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "V-privacy",
-          "description": "A Vue 3 plugin that allows you to manage the privacy of an HTML element by blurring its content and optional encrypt node text data in DOM.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-05-11T18:39:07Z",
-            "owner": "fchancel",
-            "repo": "v-privacy",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vue USWDS",
-          "description": "A Vue.js implementation of the USWDS (U.S. Web Design System)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-05-25T17:23:07Z",
-            "owner": "patrickcate",
-            "repo": "vue-uswds",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue3-fullscreen",
-          "description": "A simple Vue 3 component for fullscreen.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2024-09-26T09:31:09Z",
-            "owner": "mirari",
-            "repo": "vue3-fullscreen",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vue BaseTooltip",
-          "description": "A simple and performant tooltip plugin using Floating UI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-12-06T18:35:33Z",
-            "owner": "CarlLDreyer",
-            "repo": "vue-base-tooltip",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-use-switch-map",
-          "description": "👽 The power of the RxJS switchMap operator injected into the Vue composition world",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-06T12:35:25Z",
-            "owner": "jfet97",
-            "repo": "vue-use-switch-map",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-visibility",
-          "description": "Vue plugin that hides or shows elements depending of a criteria. 👀",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-06-18T04:23:18Z",
-            "owner": "lewandy",
-            "repo": "vue-visibility",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-highlight",
-          "description": "Vue 3 directive for highlight.js.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-05-08T04:06:15Z",
-            "owner": "point-hub",
-            "repo": "vue-highlight",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-contentful-rich-text",
-          "description": "🦉 Vue 3 package for outputting a Contentful Rich Text Field",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-02-11T23:32:18Z",
-            "owner": "Anivive",
-            "repo": "vue-contentful-rich-text",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "v-hide directive",
-          "description": "v-hide directive to accompany v-if and v-show, but keep hidden space in layout",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2023-06-30T23:20:26Z",
-            "owner": "ventralnet",
-            "repo": "v-hide",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-composition-toolkit",
-          "description": "💚 Vue3 Composition-API toolkit",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2019-11-06T07:13:49Z",
-            "owner": "soouup",
-            "repo": "vue-composition-toolkit",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue3-dynamic-tabs",
-          "description": "A Vue3 tabs component to easily display tabs, however and wherever you want.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2022-02-05T15:59:57Z",
-            "owner": "Tapha",
-            "repo": "vue3-dynamic-tabs",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vue 3 Easter Egg Trigger",
-          "description": "This packages makes it nice and easy to add Easter Egg triggers to your Vue3 site.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Vue",
-            "last_commit": "2024-01-17T21:01:25Z",
-            "owner": "webdevnerdstuff",
-            "repo": "vue3-easter-egg-trigger",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Equal UI",
-          "description": "Vue 3 components library with 30+ components based on TypeScript and Equal design system.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2024-04-17T19:38:15Z",
-            "owner": "quatrochan",
-            "repo": "Equal",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Packages"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "vue3-realworld-example-app",
-          "description": "Realworld app implementation using Vue 3 + TypeScript + Composition Api",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-01T19:13:30Z",
-            "owner": "mutoe",
-            "repo": "vue3-realworld-example-app",
-            "stars": 1077
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Materio-vuetify-vuejs-admin-template-free",
-          "description": "A Production ready, carefully crafted, most comprehensive Vuetify Vuejs admin template.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2025-01-01T12:32:08Z",
-            "owner": "themeselection",
-            "repo": "materio-vuetify-vuejs-admin-template-free",
-            "stars": 962
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Materio-vuetify-vuejs-admin-template-free",
-          "description": "A Production ready, carefully crafted, most comprehensive Vuetify Vuejs admin template.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2025-01-01T12:32:08Z",
-            "owner": "themeselection",
-            "repo": "materio-vuetify-vuejs-admin-template-free",
-            "stars": 962
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue3-vite2-chrome-extension-demo",
-          "description": "A note-taking chrome extension built by Vue3 & Vite2.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2022-05-19T02:31:59Z",
-            "owner": "betterRunner",
-            "repo": "context-note",
-            "stars": 717
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CoreUI for Vue",
-          "description": "An Open Source UI components library for Vue 3",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "MDX",
-            "last_commit": "2026-08-18T09:13:57Z",
-            "owner": "coreui",
-            "repo": "coreui-vue",
-            "stars": 642
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "composition-api-demos",
-          "description": "A Vue.js app demonstarting various use cases for the new composition API",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2021-03-12T08:32:52Z",
-            "owner": "LinusBorg",
-            "repo": "composition-api-demos",
-            "stars": 507
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vite-tailwind-starter",
-          "description": "Starter using Vite + Tailwind for super fast prototyping",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2026-08-10T06:10:52Z",
-            "owner": "posva",
-            "repo": "vite-tailwind-starter",
-            "stars": 458
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-next-webpack-preview",
-          "description": "Minimal webpack setup for Vue 3 (beta)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2021-06-28T17:52:46Z",
-            "owner": "vuejs",
-            "repo": "vue-next-webpack-preview",
-            "stars": 417
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-3-reactivity",
-          "description": "Code from the Vue 3 Reactivity course",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-05-01T10:38:33Z",
-            "owner": "Code-Pop",
-            "repo": "vue-3-reactivity",
-            "stars": 267
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tailwindadmin",
-          "description": "A free, open-source Shadcn UI admin dashboard template supporting React, Next.js, Angular, and Vue.js.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-05-26T11:49:14Z",
-            "owner": "Tailwind-Admin",
-            "repo": "free-tailwind-admin-dashboard-template",
-            "stars": 254
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Materio-vuetify-vuejs-laravel-admin-template-free",
-          "description": "Open-source & easy to use Vuetify Vuejs Laravel Admin Template with Elegant Design & Unique Layout.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2025-01-01T12:43:04Z",
-            "owner": "themeselection",
-            "repo": "materio-vuetify-vuejs-laravel-admin-template-free",
-            "stars": 231
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vue3Todo",
-          "description": "A repository showcasing the new Vue 3.0 Composition API with simple examples",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2023-01-04T07:27:50Z",
-            "owner": "ShetlandJ",
-            "repo": "Vue3Todo",
-            "stars": 218
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sneat Free Vuetify VueJS Admin Template",
-          "description": "A Production ready, carefully crafted, most comprehensive Opensource & Free Vuejs admin template.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2025-01-01T12:37:57Z",
-            "owner": "themeselection",
-            "repo": "sneat-vuetify-vuejs-admin-template-free",
-            "stars": 140
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "todomvc-vue-composition-api",
-          "description": "TodoMVC built with Vue 3 Composition Api and Vuex",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-03-15T00:01:02Z",
-            "owner": "gs00s",
-            "repo": "todomvc-vue-composition-api",
-            "stars": 126
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vite-wind",
-          "description": "Boilerplate with Tailwind CSS, TypeScript, css-pro-layout, 9+ components and dark mode support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T20:14:12Z",
-            "owner": "boussadjra",
-            "repo": "vuestrata",
-            "stars": 110
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vite-wind",
-          "description": "Boilerplate with Tailwind CSS, TypeScript, css-pro-layout, 9+ components and dark mode support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T20:14:12Z",
-            "owner": "boussadjra",
-            "repo": "vuestrata",
-            "stars": 110
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue3-md-blog",
-          "description": "✍️ Minimal config Vue3 + Markdown blog engine",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2024-07-16T12:21:58Z",
-            "owner": "yeikiu",
-            "repo": "vue3-md-blog",
-            "stars": 80
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vue3 Starter Template",
-          "description": "= A Vue3 starter kit with full authentication routes, payment support, multilingual abilities, a global event bus, meta+schema tag generators, and more!",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-05-22T09:27:09Z",
-            "owner": "M-Media-Group",
-            "repo": "Vue3-SPA-starter-template",
-            "stars": 72
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue3-webpack-boilerplate",
-          "description": "Vue 3 Webpack Boilerplate (Vue 3, Vue Router 4, Vuex 4, Typescript)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Vue",
-            "last_commit": "2020-07-19T03:10:07Z",
-            "owner": "starkovsky",
-            "repo": "vue3-webpack-boilerplate",
-            "stars": 70
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-ts-starter",
-          "description": "Vue template for starter using Vue3 + TypeScript + Vite + Pinia 🚀 - Demo",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-11-28T03:46:43Z",
-            "owner": "yugasun",
-            "repo": "vue-ts-starter",
-            "stars": 69
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "YummyAdmin",
-          "description": "📈 Totaly free Vue 3 Dashboard template based on NaiveUI, Typescript, MSW, Tailwindcss, multilanguage, fully RTL support and production ready.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2026-06-16T07:26:33Z",
-            "owner": "doroudi",
-            "repo": "YummyAdmin",
-            "stars": 66
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Modernize VueJs Template",
-          "description": "Modernize Vue 3 + Vite + TypeScript + Vuetify 3 Admin Template.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2026-05-20T13:43:58Z",
-            "owner": "adminmart",
-            "repo": "Modernize-vuejs-free",
-            "stars": 52
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "movie-search-vue",
-          "description": "Movie search app with the Vue 3 Composition API",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2023-01-06T02:13:39Z",
-            "owner": "gs00s",
-            "repo": "movie-search-vue",
-            "stars": 44
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue3-ssr-realworld-example-app",
-          "description": "Realworld app implementation using Vue 3 with SSR",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2022-10-14T08:34:21Z",
-            "owner": "levchak0910",
-            "repo": "vue3-ssr-realworld-example-app",
-            "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sneat-free-vuetify-nuxtjs-admin-template",
-          "description": "Open Source NuxtJS admin template based on latest Vuetify, NuxtJS 3, Vue 3 & Typescript for developing responsive web apps with ease.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2025-01-01T12:42:47Z",
-            "owner": "themeselection",
-            "repo": "sneat-vuetify-nuxtjs-admin-template-free",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Material Pro Vuetify Admin Template",
-          "description": "A Beautiful Vuetify Admin Template.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2025-10-03T11:38:20Z",
-            "owner": "wrappixel",
-            "repo": "materialpro-vuetify-lite",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue3-compact-template",
-          "description": "⚡️ A simple and compact vue 3 template with current cutting edge front end technologies.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2021-12-08T14:53:07Z",
-            "owner": "upupming",
-            "repo": "vue3-compact-template",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OpenClaw Monitor",
-          "description": "Real-time monitoring dashboard for OpenClaw AI agents — token usage, session tracking, 7-day trends.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-05-14T14:08:28Z",
-            "owner": "flik2002",
-            "repo": "openclaw-monitor",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-cart with import-maps",
-          "description": "Basic Shopping Cart with Vue ES Module and Composition API (without bundler or build step)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-12-06T11:42:11Z",
-            "owner": "aelbore",
-            "repo": "vue-cart",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-dapp",
-          "description": "Vue 3 library for building Dapps with ethers.js.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-05-10T12:48:15Z",
-            "owner": "johnson86tw",
-            "repo": "vue-dapp",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue3 MineSweeper game",
-          "description": "A vue 3 implemention of classical MineSweeper retro game",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-25T16:07:37Z",
-            "owner": "LeonardoSalvucci",
-            "repo": "mine-sweeper",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vue3 Atomic Design",
-          "description": "A Vue3 boilerplate based on atomic design methodology",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2023-03-31T11:26:40Z",
-            "owner": "alexander-elgin",
-            "repo": "vue3-atomic-design",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue3-default-preset-demo",
-          "description": "A demo app the new Vue 3.0 Composition API, Vuex, Router.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2021-09-09T13:45:09Z",
-            "owner": "oleksa-source",
-            "repo": "vue3-default-preset-demo",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-3-playground",
-          "description": "Vue 3 Playground packed with all the new features",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "vite-vue3-tailwind-starter",
-          "description": "Starter Template based on Vite (Vue 3, Vue Router and Tailwind CSS)",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "vue3 2048 game",
-          "description": "A vue 3 implemention of the popular 2048 game",
-          "children": []
-        }
-      ],
-      "title": "Examples"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "vue3-sfc-loader",
-          "description": "Load .vue files directly from your html/js. No node.js environment, no (webpack) build step.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-09-27T10:48:21Z",
-            "owner": "FranckFreiburger",
-            "repo": "vue3-sfc-loader",
-            "stars": 1354
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vue-Cheatsheet",
-          "description": "An interactive cheatsheet of Vue, Vue Router and, Pinia",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2024-04-23T19:50:17Z",
-            "owner": "themeselection",
-            "repo": "vue-cheatsheet",
-            "stars": 219
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-composable-starter",
-          "description": "🪝 Minimalist starting point for your next Vue composable.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-08-14T06:18:32Z",
-            "owner": "Tahul",
-            "repo": "vue-composable-starter",
-            "stars": 51
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aria-vue",
-          "description": "Headless testing with Vite + Vue + Vue-Testting-Utils",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2022-06-25T18:13:22Z",
-            "owner": "aelbore",
-            "repo": "aria-vue",
-            "stars": 22
-          }
-        }
-      ],
-      "title": "Tools"
+      "title": "Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:06:09.732Z",
+    "last_updated": "2026-08-19T12:59:24.466Z",
     "original_repository": "gs00s/awesome-vue-3",
+    "original_repository_id": 270657720,
     "original_repository_sha": "8371ffcb0b11bf72dc1565a7ce305f4ff30006f3",
     "enhanced_repository": "enhansome/enhansome-vue-3",
     "enhanced_repository_description": null,
