@@ -54,7 +54,7 @@
                 "last_commit": "2026-08-19T12:16:23Z",
                 "owner": "vitejs",
                 "repo": "vite",
-                "stars": 82407
+                "stars": 82409
               }
             },
             {
@@ -69,7 +69,7 @@
                 "last_commit": "2026-08-19T08:52:39Z",
                 "owner": "vuejs",
                 "repo": "core",
-                "stars": 54223
+                "stars": 54224
               }
             },
             {
@@ -171,7 +171,7 @@
                 "archived": false,
                 "id": 169618186,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T12:53:01Z",
+                "last_commit": "2026-08-19T13:16:47Z",
                 "owner": "vuejs",
                 "repo": "router",
                 "stars": 4668
@@ -246,10 +246,10 @@
                 "archived": false,
                 "id": 988222683,
                 "language": "Vue",
-                "last_commit": "2026-08-19T09:07:45Z",
+                "last_commit": "2026-08-19T15:05:58Z",
                 "owner": "Simon-He95",
                 "repo": "markstream-vue",
-                "stars": 2899
+                "stars": 2902
               }
             },
             {
@@ -354,7 +354,7 @@
                 "last_commit": "2026-08-15T16:41:41Z",
                 "owner": "fast-crud",
                 "repo": "fast-crud",
-                "stars": 1144
+                "stars": 1145
               }
             },
             {
@@ -2076,7 +2076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:59:24.466Z",
+    "last_updated": "2026-08-19T15:06:36.844Z",
     "original_repository": "gs00s/awesome-vue-3",
     "original_repository_id": 270657720,
     "original_repository_sha": "8371ffcb0b11bf72dc1565a7ce305f4ff30006f3",
