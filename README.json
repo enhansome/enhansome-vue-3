@@ -39,7 +39,7 @@
                 "last_commit": "2026-07-24T10:16:04Z",
                 "owner": "vuejs",
                 "repo": "awesome-vue",
-                "stars": 73534
+                "stars": 73535
               }
             },
             {
@@ -76,7 +76,7 @@
                 "last_commit": "2026-08-24T04:58:55Z",
                 "owner": "vitejs",
                 "repo": "vite",
-                "stars": 82507
+                "stars": 82508
               }
             },
             {
@@ -133,7 +133,7 @@
                 "archived": false,
                 "id": 260338399,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T14:07:01Z",
+                "last_commit": "2026-08-24T15:09:52Z",
                 "owner": "vuejs",
                 "repo": "vitepress",
                 "stars": 18231
@@ -733,7 +733,7 @@
                 "archived": false,
                 "id": 331809588,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T10:08:44Z",
+                "last_commit": "2026-08-24T14:42:59Z",
                 "owner": "revolist",
                 "repo": "vue3-datagrid",
                 "stars": 178
@@ -2120,7 +2120,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:07:54.099Z",
+    "last_updated": "2026-08-24T15:21:44.396Z",
     "original_repository": "gs00s/awesome-vue-3",
     "original_repository_id": 270657720,
     "original_repository_sha": "8371ffcb0b11bf72dc1565a7ce305f4ff30006f3",

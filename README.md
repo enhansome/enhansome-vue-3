@@ -32,7 +32,7 @@ A curated list of awesome things related to Vue 3
 
 ## Related awesome lists
 
-* [General](https://github.com/vuejs/awesome-vue) ⭐ 73,534 | 🐛 98 | 📅 2026-07-24
+* [General](https://github.com/vuejs/awesome-vue) ⭐ 73,535 | 🐛 98 | 📅 2026-07-24
 * [Vite](https://github.com/vitejs/awesome-vite) ⭐ 17,227 | 🐛 134 | 🌐 JavaScript | 📅 2026-02-04
 
 ## Articles
@@ -112,7 +112,7 @@ A curated list of awesome things related to Vue 3
 
 ## Packages
 
-* [vite](https://github.com/vitejs/vite) ⭐ 82,507 | 🐛 750 | 🌐 TypeScript | 📅 2026-08-24 - Next generation frontend tooling. It's fast.
+* [vite](https://github.com/vitejs/vite) ⭐ 82,508 | 🐛 750 | 🌐 TypeScript | 📅 2026-08-24 - Next generation frontend tooling. It's fast.
 * [vue-next](https://github.com/vuejs/vue-next) ⭐ 54,243 | 🐛 912 | 🌐 TypeScript | 📅 2026-08-24 - Repo for Vue 3.0
 * [headlessui-vue](https://github.com/tailwindlabs/headlessui) ⭐ 28,720 | 🐛 109 | 🌐 TypeScript | 📅 2026-04-13 - A set of completely unstyled, fully accessible UI components for Vue 3, designed to integrate beautifully with Tailwind CSS.
 * [vant](https://github.com/youzan/vant) ⭐ 24,373 | 🐛 222 | 🌐 TypeScript | 📅 2026-08-24 - Lightweight Mobile UI Components built on Vue 3
@@ -156,7 +156,7 @@ A curated list of awesome things related to Vue 3
 * [Toastflow](https://github.com/adrianjanocko/toastflow) ⭐ 196 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-12 - 💡 Headless toast (notification) engine + Vue 3 renderer (TS-first, CSS-first theming, highly customizable).
 * [vue-inline-svg](https://github.com/shrpne/vue-inline-svg) ⭐ 189 | 🐛 4 | 🌐 TypeScript | 📅 2025-05-19 - Vue component loads an SVG source dynamically and inline `<svg>` so you can manipulate the style of it with CSS or JS. Works for Vue 2 and 3.
 * [timer-hook](https://github.com/riderx/vue-timer-hook) ⭐ 182 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-24 - Handle timer, stopwatch, and time logic/state in your vue 3 component.
-* [vue3-datagrid](https://github.com/revolist/vue3-datagrid) ⭐ 178 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-18 - Powerful virtual data grid spreadsheet for Vue 3 with advanced customization based on [revogrid](https://rv-grid.com).
+* [vue3-datagrid](https://github.com/revolist/vue3-datagrid) ⭐ 178 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-24 - Powerful virtual data grid spreadsheet for Vue 3 with advanced customization based on [revogrid](https://rv-grid.com).
 * [vueuse](https://github.com/antfu/vueuse) ⭐ 151 | 🐛 0 | 📅 2021-10-18 - 🧰 Collection of essential Vue Composition API utils works for Vue 2 and 3
 * [vue-hooks-form](https://github.com/beizhedenglong/vue-hooks-form) ⭐ 149 | 🐛 2 | 🌐 TypeScript | 📅 2023-11-13 - Building forms with Vue composition API
 * [vue-simple-acl](https://github.com/victorybiz/vue-simple-acl) ⭐ 137 | 🐛 10 | 🌐 TypeScript | 📅 2023-07-28 - A simple unopinionated Vue plugin for managing user roles and permissions, access-control list (ACL) and role-based access control (RBAC).
@@ -234,7 +234,7 @@ A curated list of awesome things related to Vue 3
 
 ## Examples
 
-* [vue3-realworld-example-app](https://github.com/mutoe/vue3-realworld-example-app) ⭐ 1,078 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-01 - [Realworld](https://github.com/gothinkster/realworld) ⭐ 84,135 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-13 app implementation using Vue 3 + TypeScript + Composition Api
+* [vue3-realworld-example-app](https://github.com/mutoe/vue3-realworld-example-app) ⭐ 1,078 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-01 - [Realworld](https://github.com/gothinkster/realworld) ⭐ 84,136 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-13 app implementation using Vue 3 + TypeScript + Composition Api
 * [Materio-vuetify-vuejs-admin-template-free](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) ⭐ 964 | 🐛 0 | 🌐 Vue | 📅 2025-01-01 - A Production ready, carefully crafted, most comprehensive Vuetify Vuejs admin template.
 * [Materio-vuetify-vuejs-admin-template-free](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) ⭐ 964 | 🐛 0 | 🌐 Vue | 📅 2025-01-01 - A Production ready, carefully crafted, most comprehensive Vuetify Vuejs admin template.
 * [vue3-vite2-chrome-extension-demo](https://github.com/betterRunner/context-note) ⭐ 717 | 🐛 2 | 🌐 Vue | 📅 2022-05-19 - A note-taking chrome extension built by Vue3 & Vite2.
@@ -257,7 +257,7 @@ A curated list of awesome things related to Vue 3
 * [YummyAdmin](https://github.com/doroudi/YummyAdmin) ⭐ 66 | 🐛 12 | 🌐 Vue | 📅 2026-06-16 - 📈 Totaly free Vue 3 Dashboard template based on NaiveUI, Typescript, MSW, Tailwindcss, multilanguage, fully RTL support and production ready.
 * [Modernize VueJs Template](https://github.com/adminmart/Modernize-vuejs-free) ⭐ 52 | 🐛 0 | 🌐 Vue | 📅 2026-05-20 - Modernize Vue 3 + Vite + TypeScript + Vuetify 3 Admin Template.
 * [movie-search-vue](https://github.com/blacksonic/movie-search-vue) ⭐ 44 | 🐛 22 | 🌐 Vue | 📅 2023-01-06 - Movie search app with the Vue 3 Composition API
-* [vue3-ssr-realworld-example-app](https://github.com/levchak0910/vue3-ssr-realworld-example-app) ⭐ 42 | 🐛 0 | 🌐 Vue | 📅 2022-10-14 - [Realworld](https://github.com/gothinkster/realworld) ⭐ 84,135 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-13 app implementation using Vue 3 with SSR
+* [vue3-ssr-realworld-example-app](https://github.com/levchak0910/vue3-ssr-realworld-example-app) ⭐ 42 | 🐛 0 | 🌐 Vue | 📅 2022-10-14 - [Realworld](https://github.com/gothinkster/realworld) ⭐ 84,136 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-13 app implementation using Vue 3 with SSR
 * [Sneat-free-vuetify-nuxtjs-admin-template](https://github.com/themeselection/sneat-vuetify-nuxtjs-admin-template-free) ⭐ 30 | 🐛 0 | 🌐 Vue | 📅 2025-01-01 - Open Source NuxtJS admin template based on latest Vuetify, NuxtJS 3, Vue 3 & Typescript for developing responsive web apps with ease.
 * [Material Pro Vuetify Admin Template](https://github.com/wrappixel/materialpro-vuetify-lite) ⭐ 27 | 🐛 27 | 🌐 Vue | 📅 2025-10-03 - A Beautiful Vuetify Admin Template.
 * [vue3-compact-template](https://github.com/upupming/vue3-compact-template) ⭐ 15 | 🐛 0 | 🌐 Vue | 📅 2021-12-08 - ⚡️ A simple and compact vue 3 template with current cutting edge front end technologies.
