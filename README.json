@@ -70,7 +70,7 @@
                 "open_issues": 135,
                 "owner": "vitejs",
                 "repo": "awesome-vite",
-                "stars": 17229,
+                "stars": 17230,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -99,11 +99,11 @@
                 "id": 257485422,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-28T09:47:39Z",
+                "last_commit": "2026-08-29T10:52:23Z",
                 "open_issues": 771,
                 "owner": "vitejs",
                 "repo": "vite",
-                "stars": 82575,
+                "stars": 82588,
                 "topics": [
                   "build-tool",
                   "dev-server",
@@ -126,11 +126,11 @@
                 "id": 137078487,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-28T11:46:37Z",
-                "open_issues": 900,
+                "last_commit": "2026-08-29T10:15:31Z",
+                "open_issues": 904,
                 "owner": "vuejs",
                 "repo": "core",
-                "stars": 54259,
+                "stars": 54263,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:08.604Z"
@@ -177,11 +177,11 @@
                 "id": 88717215,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-27T22:55:47Z",
-                "open_issues": 223,
+                "last_commit": "2026-08-29T14:03:16Z",
+                "open_issues": 213,
                 "owner": "youzan",
                 "repo": "vant",
-                "stars": 24376,
+                "stars": 24378,
                 "topics": [
                   "components",
                   "mobile",
@@ -210,7 +210,7 @@
                 "open_issues": 307,
                 "owner": "vuejs",
                 "repo": "vitepress",
-                "stars": 18258,
+                "stars": 18262,
                 "topics": [
                   "docs-generator",
                   "hacktoberfest",
@@ -421,11 +421,11 @@
                 "id": 549650165,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-29T04:08:38Z",
-                "open_issues": 67,
+                "last_commit": "2026-08-29T12:06:52Z",
+                "open_issues": 65,
                 "owner": "inokawa",
                 "repo": "virtua",
-                "stars": 3728,
+                "stars": 3729,
                 "topics": [
                   "angular",
                   "headlessui",
@@ -488,7 +488,7 @@
                 "id": 988222683,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-08-28T23:24:44Z",
+                "last_commit": "2026-08-29T14:37:15Z",
                 "open_issues": 2,
                 "owner": "Simon-He95",
                 "repo": "markstream-vue",
@@ -650,7 +650,7 @@
                 "open_issues": 24,
                 "owner": "pikax",
                 "repo": "vue-composable",
-                "stars": 1178,
+                "stars": 1179,
                 "topics": [
                   "breakpoint",
                   "composition-api",
@@ -880,7 +880,7 @@
                 "open_issues": 57,
                 "owner": "Tarektouati",
                 "repo": "vue-use-web",
-                "stars": 742,
+                "stars": 743,
                 "topics": [
                   "composition-api",
                   "essential",
@@ -2258,7 +2258,7 @@
                 "open_issues": 7,
                 "owner": "hedint",
                 "repo": "vue3-social-sharing",
-                "stars": 21,
+                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:08.604Z"
@@ -3100,7 +3100,7 @@
                 "open_issues": 1,
                 "owner": "Tailwind-Admin",
                 "repo": "free-tailwind-admin-dashboard-template",
-                "stars": 265,
+                "stars": 267,
                 "topics": [
                   "admin",
                   "admin-dashboards",
@@ -3977,7 +3977,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:27:58.243Z",
+    "last_updated": "2026-08-29T17:53:55.016Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Vue 3",
