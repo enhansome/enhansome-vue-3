@@ -46,7 +46,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-07-24T10:16:04Z",
-                "open_issues": 105,
+                "open_issues": 106,
                 "owner": "vuejs",
                 "repo": "awesome-vue",
                 "stars": 73550,
@@ -67,10 +67,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-02-04T13:10:54Z",
-                "open_issues": 137,
+                "open_issues": 138,
                 "owner": "vitejs",
                 "repo": "awesome-vite",
-                "stars": 17238,
+                "stars": 17239,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -99,11 +99,11 @@
                 "id": 257485422,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-04T10:15:31Z",
-                "open_issues": 758,
+                "last_commit": "2026-09-05T17:04:56Z",
+                "open_issues": 761,
                 "owner": "vitejs",
                 "repo": "vite",
-                "stars": 82690,
+                "stars": 82731,
                 "topics": [
                   "build-tool",
                   "dev-server",
@@ -126,11 +126,11 @@
                 "id": 137078487,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-05T15:00:11Z",
-                "open_issues": 906,
+                "last_commit": "2026-09-06T09:49:21Z",
+                "open_issues": 908,
                 "owner": "vuejs",
                 "repo": "core",
-                "stars": 54302,
+                "stars": 54335,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:08.604Z"
@@ -151,7 +151,7 @@
                 "open_issues": 110,
                 "owner": "tailwindlabs",
                 "repo": "headlessui",
-                "stars": 28733,
+                "stars": 28735,
                 "topics": [
                   "a11y",
                   "accessibility",
@@ -210,7 +210,7 @@
                 "open_issues": 304,
                 "owner": "vuejs",
                 "repo": "vitepress",
-                "stars": 18287,
+                "stars": 18290,
                 "topics": [
                   "docs-generator",
                   "hacktoberfest",
@@ -275,7 +275,7 @@
                 "open_issues": 21,
                 "owner": "tsparticles",
                 "repo": "tsparticles",
-                "stars": 8977,
+                "stars": 8978,
                 "topics": [
                   "2d",
                   "angular",
@@ -344,7 +344,7 @@
                 "open_issues": 52,
                 "owner": "vuejs",
                 "repo": "router",
-                "stars": 4673,
+                "stars": 4674,
                 "topics": [
                   "vue",
                   "vue-router"
@@ -421,8 +421,8 @@
                 "id": 549650165,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-04T17:23:47Z",
-                "open_issues": 61,
+                "last_commit": "2026-09-06T16:23:28Z",
+                "open_issues": 60,
                 "owner": "inokawa",
                 "repo": "virtua",
                 "stars": 3735,
@@ -488,11 +488,11 @@
                 "id": 988222683,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-09-05T13:48:38Z",
+                "last_commit": "2026-09-06T07:08:08Z",
                 "open_issues": 2,
                 "owner": "Simon-He95",
                 "repo": "markstream-vue",
-                "stars": 2988,
+                "stars": 2991,
                 "topics": [
                   "ai",
                   "ai-chat",
@@ -680,8 +680,8 @@
                 "id": 241878558,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-05T08:41:13Z",
-                "open_issues": 31,
+                "last_commit": "2026-09-06T12:53:47Z",
+                "open_issues": 33,
                 "owner": "vuejs",
                 "repo": "test-utils",
                 "stars": 1158,
@@ -1054,7 +1054,7 @@
                 "open_issues": 1,
                 "owner": "MrGao-hy",
                 "repo": "hy-design-uni",
-                "stars": 453,
+                "stars": 452,
                 "topics": [
                   "hy-app",
                   "hy-ui",
@@ -1116,7 +1116,7 @@
                 "open_issues": 26,
                 "owner": "robinrodricks",
                 "repo": "vue3-touch-events",
-                "stars": 344,
+                "stars": 343,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:08.604Z"
@@ -2492,8 +2492,8 @@
                 "id": 407870605,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-05T16:42:50Z",
-                "open_issues": 68,
+                "last_commit": "2026-09-05T18:23:23Z",
+                "open_issues": 67,
                 "owner": "patrickcate",
                 "repo": "vue-uswds",
                 "stars": 11,
@@ -3738,6 +3738,32 @@
             },
             {
               "node_type": "item",
+              "title": "vue3 MineSweeper game",
+              "description": "A vue 3 implemention of classical MineSweeper retro game",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Vue3 implementation of classical game MineSweeper made with vue3 + typescript and pure CSS",
+                "homepage": "https://mine-sweeper.lesalvucci.xyz",
+                "id": 591741722,
+                "language": "TypeScript",
+                "license": null,
+                "last_commit": "2023-01-25T16:07:37Z",
+                "open_issues": 0,
+                "owner": "LeonardoSalvucci",
+                "repo": "mine-sweeper",
+                "stars": 3,
+                "topics": [
+                  "css",
+                  "typescript",
+                  "vite",
+                  "vue3"
+                ]
+              },
+              "first_seen": "2026-08-28T23:41:08.604Z"
+            },
+            {
+              "node_type": "item",
               "title": "vue-dapp",
               "description": "Vue 3 library for building Dapps with ethers.js.",
               "children": [],
@@ -3754,32 +3780,6 @@
                 "repo": "vue-dapp",
                 "stars": 2,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T23:41:08.604Z"
-            },
-            {
-              "node_type": "item",
-              "title": "vue3 MineSweeper game",
-              "description": "A vue 3 implemention of classical MineSweeper retro game",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Vue3 implementation of classical game MineSweeper made with vue3 + typescript and pure CSS",
-                "homepage": "https://mine-sweeper.lesalvucci.xyz",
-                "id": 591741722,
-                "language": "TypeScript",
-                "license": null,
-                "last_commit": "2023-01-25T16:07:37Z",
-                "open_issues": 0,
-                "owner": "LeonardoSalvucci",
-                "repo": "mine-sweeper",
-                "stars": 2,
-                "topics": [
-                  "css",
-                  "typescript",
-                  "vite",
-                  "vue3"
-                ]
               },
               "first_seen": "2026-08-28T23:41:08.604Z"
             },
@@ -3977,7 +3977,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T16:56:13.595Z",
+    "last_updated": "2026-09-06T17:20:51.343Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Vue 3",
