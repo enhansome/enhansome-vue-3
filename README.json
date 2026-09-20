@@ -46,10 +46,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-09-18T07:23:15Z",
-                "open_issues": 82,
+                "open_issues": 80,
                 "owner": "vuejs",
                 "repo": "awesome-vue",
-                "stars": 73547,
+                "stars": 73546,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:08.604Z"
@@ -70,7 +70,7 @@
                 "open_issues": 140,
                 "owner": "vitejs",
                 "repo": "awesome-vite",
-                "stars": 17248,
+                "stars": 17250,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -99,11 +99,11 @@
                 "id": 257485422,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-19T00:44:12Z",
-                "open_issues": 784,
+                "last_commit": "2026-09-19T21:41:28Z",
+                "open_issues": 788,
                 "owner": "vitejs",
                 "repo": "vite",
-                "stars": 82890,
+                "stars": 82912,
                 "topics": [
                   "build-tool",
                   "dev-server",
@@ -126,11 +126,11 @@
                 "id": 137078487,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-19T17:11:44Z",
-                "open_issues": 894,
+                "last_commit": "2026-09-20T09:53:37Z",
+                "open_issues": 885,
                 "owner": "vuejs",
                 "repo": "core",
-                "stars": 54412,
+                "stars": 54418,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:08.604Z"
@@ -151,7 +151,7 @@
                 "open_issues": 111,
                 "owner": "tailwindlabs",
                 "repo": "headlessui",
-                "stars": 28746,
+                "stars": 28749,
                 "topics": [
                   "a11y",
                   "accessibility",
@@ -181,7 +181,7 @@
                 "open_issues": 222,
                 "owner": "youzan",
                 "repo": "vant",
-                "stars": 24383,
+                "stars": 24382,
                 "topics": [
                   "components",
                   "mobile",
@@ -210,7 +210,7 @@
                 "open_issues": 316,
                 "owner": "vuejs",
                 "repo": "vitepress",
-                "stars": 18334,
+                "stars": 18338,
                 "topics": [
                   "docs-generator",
                   "hacktoberfest",
@@ -238,7 +238,7 @@
                 "open_issues": 172,
                 "owner": "logaretm",
                 "repo": "vee-validate",
-                "stars": 11264,
+                "stars": 11263,
                 "topics": [
                   "form",
                   "form-validation",
@@ -275,7 +275,7 @@
                 "open_issues": 19,
                 "owner": "tsparticles",
                 "repo": "tsparticles",
-                "stars": 8985,
+                "stars": 8983,
                 "topics": [
                   "2d",
                   "angular",
@@ -341,7 +341,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-18T14:24:45Z",
-                "open_issues": 54,
+                "open_issues": 55,
                 "owner": "vuejs",
                 "repo": "router",
                 "stars": 4680,
@@ -370,6 +370,44 @@
                 "repo": "composition-api",
                 "stars": 4180,
                 "topics": []
+              },
+              "first_seen": "2026-08-28T23:41:08.604Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Virtua",
+              "description": "A zero-config, fast and small (~3kB) virtual list component for React, Vue and Solid.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A zero-config, fast and small virtual list and grid component for React, Vue, Solid, Svelte and Angular.",
+                "homepage": "https://inokawa.github.io/virtua/",
+                "id": 549650165,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-09-20T11:19:30Z",
+                "open_issues": 59,
+                "owner": "inokawa",
+                "repo": "virtua",
+                "stars": 3747,
+                "topics": [
+                  "angular",
+                  "headlessui",
+                  "infinite-scroll",
+                  "performance",
+                  "react",
+                  "react-component",
+                  "scrolling",
+                  "solid",
+                  "svelte",
+                  "tabular-data",
+                  "virtual-list",
+                  "virtual-scroll",
+                  "virtualization",
+                  "virtualized",
+                  "vue",
+                  "windowing"
+                ]
               },
               "first_seen": "2026-08-28T23:41:08.604Z"
             },
@@ -405,44 +443,6 @@
                   "vuejs3",
                   "vuestic",
                   "vuestic-ui"
-                ]
-              },
-              "first_seen": "2026-08-28T23:41:08.604Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Virtua",
-              "description": "A zero-config, fast and small (~3kB) virtual list component for React, Vue and Solid.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A zero-config, fast and small virtual list and grid component for React, Vue, Solid, Svelte and Angular.",
-                "homepage": "https://inokawa.github.io/virtua/",
-                "id": 549650165,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-09-19T15:12:05Z",
-                "open_issues": 59,
-                "owner": "inokawa",
-                "repo": "virtua",
-                "stars": 3746,
-                "topics": [
-                  "angular",
-                  "headlessui",
-                  "infinite-scroll",
-                  "performance",
-                  "react",
-                  "react-component",
-                  "scrolling",
-                  "solid",
-                  "svelte",
-                  "tabular-data",
-                  "virtual-list",
-                  "virtual-scroll",
-                  "virtualization",
-                  "virtualized",
-                  "vue",
-                  "windowing"
                 ]
               },
               "first_seen": "2026-08-28T23:41:08.604Z"
@@ -492,7 +492,7 @@
                 "open_issues": 3,
                 "owner": "Simon-He95",
                 "repo": "markstream-vue",
-                "stars": 3011,
+                "stars": 3014,
                 "topics": [
                   "ai",
                   "ai-chat",
@@ -1154,7 +1154,7 @@
                 "id": 491762703,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-19T00:26:45Z",
+                "last_commit": "2026-09-19T18:57:46Z",
                 "open_issues": 39,
                 "owner": "tomosterlund",
                 "repo": "qalendar",
@@ -1240,22 +1240,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Open-source React components, design-system engine, CLI and MCP for CodeRocket UI. Formerly Vue Tailwind Datepicker; the Vue component remains available as an unmaintained legacy package.",
+                "description": "Open-source React and Vue component library: 48 components, 26 UI blocks, TypeScript, design tokens, CLI and MCP. Customize visually with CodeRocket UI. Formerly Vue Tailwind Datepicker.",
                 "homepage": "https://ui.coderocket.app",
                 "id": 532367370,
-                "language": "Vue",
+                "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T18:13:17Z",
-                "open_issues": 47,
+                "last_commit": "2026-09-20T17:12:33Z",
+                "open_issues": 46,
                 "owner": "elreco",
                 "repo": "coderocket-ui",
                 "stars": 248,
                 "topics": [
                   "component",
+                  "component-library",
                   "datepicker",
                   "design-system",
+                  "mcp",
                   "react",
                   "tailwind",
+                  "typescript",
                   "vue"
                 ]
               },
@@ -1389,7 +1392,7 @@
                 "id": 393392608,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-19T00:56:13Z",
+                "last_commit": "2026-09-19T17:50:58Z",
                 "open_issues": 12,
                 "owner": "riderx",
                 "repo": "vue-timer-hook",
@@ -2980,7 +2983,7 @@
                 "open_issues": 3,
                 "owner": "coreui",
                 "repo": "coreui-vue",
-                "stars": 642,
+                "stars": 639,
                 "topics": [
                   "bootstrap",
                   "bootstrap-vue",
@@ -3081,7 +3084,7 @@
                 "open_issues": 2,
                 "owner": "Tailwind-Admin",
                 "repo": "free-tailwind-admin-dashboard-template",
-                "stars": 276,
+                "stars": 277,
                 "topics": [
                   "admin",
                   "admin-dashboards",
@@ -3858,7 +3861,7 @@
                 "open_issues": 15,
                 "owner": "FranckFreiburger",
                 "repo": "vue3-sfc-loader",
-                "stars": 1356,
+                "stars": 1357,
                 "topics": [
                   "babel",
                   "component-loader",
@@ -3979,7 +3982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T17:26:27.521Z",
+    "last_updated": "2026-09-20T17:39:36.239Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Vue 3",
