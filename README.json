@@ -21,7 +21,7 @@
                 "open_issues": 63,
                 "owner": "vuejs",
                 "repo": "rfcs",
-                "stars": 4939,
+                "stars": 4938,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:08.604Z"
@@ -70,7 +70,7 @@
                 "open_issues": 140,
                 "owner": "vitejs",
                 "repo": "awesome-vite",
-                "stars": 17252,
+                "stars": 17254,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -100,10 +100,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-25T11:01:45Z",
-                "open_issues": 780,
+                "open_issues": 784,
                 "owner": "vitejs",
                 "repo": "vite",
-                "stars": 82997,
+                "stars": 83018,
                 "topics": [
                   "build-tool",
                   "dev-server",
@@ -126,11 +126,11 @@
                 "id": 137078487,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-25T09:20:48Z",
-                "open_issues": 905,
+                "last_commit": "2026-09-26T12:40:08Z",
+                "open_issues": 913,
                 "owner": "vuejs",
                 "repo": "core",
-                "stars": 54438,
+                "stars": 54446,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:08.604Z"
@@ -151,7 +151,7 @@
                 "open_issues": 111,
                 "owner": "tailwindlabs",
                 "repo": "headlessui",
-                "stars": 28753,
+                "stars": 28754,
                 "topics": [
                   "a11y",
                   "accessibility",
@@ -206,11 +206,11 @@
                 "id": 260338399,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-24T22:05:45Z",
-                "open_issues": 312,
+                "last_commit": "2026-09-26T09:53:51Z",
+                "open_issues": 313,
                 "owner": "vuejs",
                 "repo": "vitepress",
-                "stars": 18346,
+                "stars": 18351,
                 "topics": [
                   "docs-generator",
                   "hacktoberfest",
@@ -271,11 +271,11 @@
                 "id": 238514517,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-23T12:37:49Z",
+                "last_commit": "2026-09-25T22:06:56Z",
                 "open_issues": 19,
                 "owner": "tsparticles",
                 "repo": "tsparticles",
-                "stars": 8985,
+                "stars": 8984,
                 "topics": [
                   "2d",
                   "angular",
@@ -344,7 +344,7 @@
                 "open_issues": 53,
                 "owner": "vuejs",
                 "repo": "router",
-                "stars": 4685,
+                "stars": 4687,
                 "topics": [
                   "vue",
                   "vue-router"
@@ -590,7 +590,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-20T23:13:08Z",
-                "open_issues": 25,
+                "open_issues": 24,
                 "owner": "vueup",
                 "repo": "vue-quill",
                 "stars": 1348,
@@ -1054,7 +1054,7 @@
                 "open_issues": 1,
                 "owner": "MrGao-hy",
                 "repo": "hy-design-uni",
-                "stars": 460,
+                "stars": 463,
                 "topics": [
                   "hy-app",
                   "hy-ui",
@@ -3982,7 +3982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T18:52:48.105Z",
+    "last_updated": "2026-09-26T18:01:42.497Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Vue 3",
