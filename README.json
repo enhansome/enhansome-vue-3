@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "RFCs for substantial changes / feature additions to Vue core",
-              "description": null,
+              "description": "vuejs/rfcs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -36,7 +36,7 @@
             {
               "node_type": "item",
               "title": "General",
-              "description": null,
+              "description": "vuejs/awesome-vue",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -57,7 +57,7 @@
             {
               "node_type": "item",
               "title": "Vite",
-              "description": null,
+              "description": "vitejs/awesome-vite",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -67,10 +67,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-02-04T13:10:54Z",
-                "open_issues": 141,
+                "open_issues": 140,
                 "owner": "vitejs",
                 "repo": "awesome-vite",
-                "stars": 17260,
+                "stars": 17261,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -100,10 +100,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-02T19:05:37Z",
-                "open_issues": 764,
+                "open_issues": 765,
                 "owner": "vitejs",
                 "repo": "vite",
-                "stars": 83099,
+                "stars": 83101,
                 "topics": [
                   "build-tool",
                   "dev-server",
@@ -126,11 +126,11 @@
                 "id": 137078487,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T12:26:55Z",
-                "open_issues": 933,
+                "last_commit": "2026-10-03T03:06:43Z",
+                "open_issues": 935,
                 "owner": "vuejs",
                 "repo": "core",
-                "stars": 54475,
+                "stars": 54479,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:08.604Z"
@@ -148,7 +148,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-04-13T16:12:31Z",
-                "open_issues": 114,
+                "open_issues": 115,
                 "owner": "tailwindlabs",
                 "repo": "headlessui",
                 "stars": 28767,
@@ -177,8 +177,8 @@
                 "id": 88717215,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T04:10:18Z",
-                "open_issues": 228,
+                "last_commit": "2026-10-03T01:08:20Z",
+                "open_issues": 227,
                 "owner": "youzan",
                 "repo": "vant",
                 "stars": 24385,
@@ -386,10 +386,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-02T15:32:56Z",
-                "open_issues": 54,
+                "open_issues": 55,
                 "owner": "inokawa",
                 "repo": "virtua",
-                "stars": 3750,
+                "stars": 3749,
                 "topics": [
                   "angular",
                   "datagrid",
@@ -490,8 +490,8 @@
                 "id": 988222683,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-10-02T16:44:38Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-03T00:49:40Z",
+                "open_issues": 3,
                 "owner": "Simon-He95",
                 "repo": "markstream-vue",
                 "stars": 3024,
@@ -686,7 +686,7 @@
                 "open_issues": 33,
                 "owner": "vuejs",
                 "repo": "test-utils",
-                "stars": 1158,
+                "stars": 1159,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:08.604Z"
@@ -1394,7 +1394,7 @@
                 "id": 393392608,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T17:33:57Z",
+                "last_commit": "2026-10-02T22:59:41Z",
                 "open_issues": 12,
                 "owner": "riderx",
                 "repo": "vue-timer-hook",
@@ -3705,7 +3705,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-05-14T14:08:28Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "flik2002",
                 "repo": "openclaw-monitor",
                 "stars": 12,
@@ -3984,7 +3984,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:30:48.361Z",
+    "last_updated": "2026-10-03T05:14:52.542Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Vue 3",
