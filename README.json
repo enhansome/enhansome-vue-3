@@ -49,7 +49,7 @@
                 "open_issues": 82,
                 "owner": "vuejs",
                 "repo": "awesome-vue",
-                "stars": 73538,
+                "stars": 73537,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:08.604Z"
@@ -70,7 +70,7 @@
                 "open_issues": 140,
                 "owner": "vitejs",
                 "repo": "awesome-vite",
-                "stars": 17261,
+                "stars": 17262,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -100,10 +100,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-02T19:05:37Z",
-                "open_issues": 765,
+                "open_issues": 769,
                 "owner": "vitejs",
                 "repo": "vite",
-                "stars": 83101,
+                "stars": 83104,
                 "topics": [
                   "build-tool",
                   "dev-server",
@@ -126,11 +126,11 @@
                 "id": 137078487,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T03:06:43Z",
+                "last_commit": "2026-10-03T16:23:09Z",
                 "open_issues": 935,
                 "owner": "vuejs",
                 "repo": "core",
-                "stars": 54479,
+                "stars": 54481,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:08.604Z"
@@ -151,7 +151,7 @@
                 "open_issues": 115,
                 "owner": "tailwindlabs",
                 "repo": "headlessui",
-                "stars": 28767,
+                "stars": 28765,
                 "topics": [
                   "a11y",
                   "accessibility",
@@ -181,7 +181,7 @@
                 "open_issues": 227,
                 "owner": "youzan",
                 "repo": "vant",
-                "stars": 24385,
+                "stars": 24386,
                 "topics": [
                   "components",
                   "mobile",
@@ -210,7 +210,7 @@
                 "open_issues": 318,
                 "owner": "vuejs",
                 "repo": "vitepress",
-                "stars": 18371,
+                "stars": 18372,
                 "topics": [
                   "docs-generator",
                   "hacktoberfest",
@@ -340,8 +340,8 @@
                 "id": 169618186,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T10:06:06Z",
-                "open_issues": 53,
+                "last_commit": "2026-10-03T14:35:08Z",
+                "open_issues": 54,
                 "owner": "vuejs",
                 "repo": "router",
                 "stars": 4689,
@@ -385,7 +385,7 @@
                 "id": 549650165,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T15:32:56Z",
+                "last_commit": "2026-10-03T16:56:43Z",
                 "open_issues": 55,
                 "owner": "inokawa",
                 "repo": "virtua",
@@ -490,11 +490,11 @@
                 "id": 988222683,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-10-03T00:49:40Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-03T08:07:16Z",
+                "open_issues": 1,
                 "owner": "Simon-He95",
                 "repo": "markstream-vue",
-                "stars": 3024,
+                "stars": 3026,
                 "topics": [
                   "ai",
                   "ai-chat",
@@ -686,7 +686,7 @@
                 "open_issues": 33,
                 "owner": "vuejs",
                 "repo": "test-utils",
-                "stars": 1159,
+                "stars": 1160,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:08.604Z"
@@ -2873,7 +2873,7 @@
                 "open_issues": 0,
                 "owner": "themeselection",
                 "repo": "materio-vuetify-vuejs-admin-template-free",
-                "stars": 967,
+                "stars": 966,
                 "topics": [
                   "admin-dashboard",
                   "admin-dashboards",
@@ -2914,7 +2914,7 @@
                 "open_issues": 0,
                 "owner": "themeselection",
                 "repo": "materio-vuetify-vuejs-admin-template-free",
-                "stars": 967,
+                "stars": 966,
                 "topics": [
                   "admin-dashboard",
                   "admin-dashboards",
@@ -3065,7 +3065,7 @@
                 "open_issues": 15,
                 "owner": "vuejs",
                 "repo": "vue-next-webpack-preview",
-                "stars": 418,
+                "stars": 417,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:08.604Z"
@@ -3984,7 +3984,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:14:52.542Z",
+    "last_updated": "2026-10-03T18:16:02.250Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Vue 3",
