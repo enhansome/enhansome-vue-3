@@ -21,7 +21,7 @@
                 "open_issues": 63,
                 "owner": "vuejs",
                 "repo": "rfcs",
-                "stars": 4932,
+                "stars": 4930,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:08.604Z"
@@ -49,7 +49,7 @@
                 "open_issues": 90,
                 "owner": "vuejs",
                 "repo": "awesome-vue",
-                "stars": 73524,
+                "stars": 73517,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:08.604Z"
@@ -67,10 +67,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-02-04T13:10:54Z",
-                "open_issues": 140,
+                "open_issues": 142,
                 "owner": "vitejs",
                 "repo": "awesome-vite",
-                "stars": 17265,
+                "stars": 17263,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -99,11 +99,11 @@
                 "id": 257485422,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-08T16:26:24Z",
-                "open_issues": 763,
+                "last_commit": "2026-10-09T16:29:16Z",
+                "open_issues": 757,
                 "owner": "vitejs",
                 "repo": "vite",
-                "stars": 83263,
+                "stars": 83264,
                 "topics": [
                   "build-tool",
                   "dev-server",
@@ -126,11 +126,11 @@
                 "id": 137078487,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-08T13:10:52Z",
-                "open_issues": 944,
+                "last_commit": "2026-10-09T16:52:40Z",
+                "open_issues": 946,
                 "owner": "vuejs",
                 "repo": "core",
-                "stars": 54590,
+                "stars": 54603,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:08.604Z"
@@ -151,7 +151,7 @@
                 "open_issues": 109,
                 "owner": "tailwindlabs",
                 "repo": "headlessui",
-                "stars": 28772,
+                "stars": 28768,
                 "topics": [
                   "a11y",
                   "accessibility",
@@ -177,11 +177,11 @@
                 "id": 88717215,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-08T14:55:54Z",
+                "last_commit": "2026-10-09T10:05:48Z",
                 "open_issues": 226,
                 "owner": "youzan",
                 "repo": "vant",
-                "stars": 24386,
+                "stars": 24384,
                 "topics": [
                   "components",
                   "mobile",
@@ -210,10 +210,9 @@
                 "open_issues": 328,
                 "owner": "vuejs",
                 "repo": "vitepress",
-                "stars": 18391,
+                "stars": 18390,
                 "topics": [
                   "docs-generator",
-                  "hacktoberfest",
                   "markdown",
                   "ssg",
                   "vite",
@@ -238,7 +237,7 @@
                 "open_issues": 172,
                 "owner": "logaretm",
                 "repo": "vee-validate",
-                "stars": 11262,
+                "stars": 11260,
                 "topics": [
                   "form",
                   "form-validation",
@@ -275,7 +274,7 @@
                 "open_issues": 23,
                 "owner": "tsparticles",
                 "repo": "tsparticles",
-                "stars": 8990,
+                "stars": 8991,
                 "topics": [
                   "2d",
                   "angular",
@@ -317,7 +316,7 @@
                 "open_issues": 212,
                 "owner": "vuelidate",
                 "repo": "vuelidate",
-                "stars": 6864,
+                "stars": 6865,
                 "topics": [
                   "javascript",
                   "validation",
@@ -340,11 +339,11 @@
                 "id": 169618186,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-08T14:23:39Z",
-                "open_issues": 54,
+                "last_commit": "2026-10-09T16:00:35Z",
+                "open_issues": 59,
                 "owner": "vuejs",
                 "repo": "router",
-                "stars": 4693,
+                "stars": 4695,
                 "topics": [
                   "vue",
                   "vue-router"
@@ -385,7 +384,7 @@
                 "id": 549650165,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-08T05:57:22Z",
+                "last_commit": "2026-10-09T06:30:53Z",
                 "open_issues": 53,
                 "owner": "inokawa",
                 "repo": "virtua",
@@ -430,7 +429,7 @@
                 "open_issues": 530,
                 "owner": "epicmaxco",
                 "repo": "vuestic-ui",
-                "stars": 3748,
+                "stars": 3747,
                 "topics": [
                   "accessibility",
                   "components",
@@ -495,7 +494,7 @@
                 "open_issues": 0,
                 "owner": "Simon-He95",
                 "repo": "markstream-vue",
-                "stars": 3024,
+                "stars": 3021,
                 "topics": [
                   "ai",
                   "ai-chat",
@@ -565,7 +564,7 @@
                 "open_issues": 31,
                 "owner": "Vuepic",
                 "repo": "vue-datepicker",
-                "stars": 1767,
+                "stars": 1768,
                 "topics": [
                   "datepicker",
                   "daterangepicker",
@@ -596,7 +595,7 @@
                 "open_issues": 24,
                 "owner": "vueup",
                 "repo": "vue-quill",
-                "stars": 1347,
+                "stars": 1346,
                 "topics": [
                   "editor",
                   "quill",
@@ -687,7 +686,7 @@
                 "open_issues": 33,
                 "owner": "vuejs",
                 "repo": "test-utils",
-                "stars": 1160,
+                "stars": 1159,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:08.604Z"
@@ -739,8 +738,8 @@
                 "id": 195983361,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-08T02:18:23Z",
-                "open_issues": 43,
+                "last_commit": "2026-10-09T14:30:29Z",
+                "open_issues": 45,
                 "owner": "vue-final",
                 "repo": "vue-final-modal",
                 "stars": 1010,
@@ -1057,7 +1056,7 @@
                 "open_issues": 0,
                 "owner": "MrGao-hy",
                 "repo": "hy-design-uni",
-                "stars": 466,
+                "stars": 404,
                 "topics": [
                   "hy-app",
                   "hy-ui",
@@ -1340,7 +1339,7 @@
                 "open_issues": 1,
                 "owner": "adrianjanocko",
                 "repo": "toastflow",
-                "stars": 200,
+                "stars": 202,
                 "topics": [
                   "notification",
                   "notifications",
@@ -2375,6 +2374,36 @@
             },
             {
               "node_type": "item",
+              "title": "Vue3 Pivottable",
+              "description": "A Vue 3 port of the jQuery-based PivotTable.js.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "It is a Vue3 port of the jQuery-based PivotTable.js",
+                "homepage": null,
+                "id": 934612538,
+                "language": "Vue",
+                "license": "MIT",
+                "last_commit": "2026-04-05T13:29:57Z",
+                "open_issues": 12,
+                "owner": "vue-pivottable",
+                "repo": "vue3-pivottable",
+                "stars": 16,
+                "topics": [
+                  "javascript",
+                  "pivottable",
+                  "pivottableui",
+                  "vue",
+                  "vue-pivottable",
+                  "vue-pivottable-ui",
+                  "vue3",
+                  "vue3-pivottable"
+                ]
+              },
+              "first_seen": "2026-08-28T23:41:08.604Z"
+            },
+            {
+              "node_type": "item",
               "title": "vue-video-annotation",
               "description": "Vue3 component that allows adding annotations to videos by free drawing or adding shapes like circles, squares, and arrows.",
               "children": [],
@@ -2391,36 +2420,6 @@
                 "repo": "vue-video-annotation",
                 "stars": 15,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T23:41:08.604Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Vue3 Pivottable",
-              "description": "A Vue 3 port of the jQuery-based PivotTable.js.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "It is a Vue3 port of the jQuery-based PivotTable.js",
-                "homepage": null,
-                "id": 934612538,
-                "language": "Vue",
-                "license": "MIT",
-                "last_commit": "2026-04-05T13:29:57Z",
-                "open_issues": 12,
-                "owner": "vue-pivottable",
-                "repo": "vue3-pivottable",
-                "stars": 15,
-                "topics": [
-                  "javascript",
-                  "pivottable",
-                  "pivottableui",
-                  "vue",
-                  "vue-pivottable",
-                  "vue-pivottable-ui",
-                  "vue3",
-                  "vue3-pivottable"
-                ]
               },
               "first_seen": "2026-08-28T23:41:08.604Z"
             },
@@ -3091,7 +3090,7 @@
                 "open_issues": 2,
                 "owner": "Tailwind-Admin",
                 "repo": "free-tailwind-admin-dashboard-template",
-                "stars": 282,
+                "stars": 284,
                 "topics": [
                   "admin",
                   "admin-dashboards",
@@ -3989,7 +3988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T20:07:50.682Z",
+    "last_updated": "2026-10-09T19:45:42.070Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Vue 3",
@@ -3998,7 +3997,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-08-01T14:56:02Z",
-      "open_issues": 4,
+      "open_issues": 5,
       "owner": "gs00s",
       "repo": "awesome-vue-3",
       "stars": 1647,
