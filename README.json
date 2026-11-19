@@ -46,10 +46,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-11-03T16:02:10Z",
-                "open_issues": 113,
+                "open_issues": 114,
                 "owner": "vuejs",
                 "repo": "awesome-vue",
-                "stars": 73474,
+                "stars": 73470,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:08.604Z"
@@ -70,7 +70,7 @@
                 "open_issues": 159,
                 "owner": "vitejs",
                 "repo": "awesome-vite",
-                "stars": 17297,
+                "stars": 17300,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -99,11 +99,11 @@
                 "id": 257485422,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-18T10:52:20Z",
-                "open_issues": 810,
+                "last_commit": "2026-11-19T10:11:49Z",
+                "open_issues": 816,
                 "owner": "vitejs",
                 "repo": "vite",
-                "stars": 83964,
+                "stars": 83987,
                 "topics": [
                   "build-tool",
                   "dev-server",
@@ -126,11 +126,11 @@
                 "id": 137078487,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-18T19:58:45Z",
+                "last_commit": "2026-11-19T09:39:11Z",
                 "open_issues": 968,
                 "owner": "vuejs",
                 "repo": "core",
-                "stars": 55020,
+                "stars": 55051,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:08.604Z"
@@ -148,10 +148,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-04-13T16:12:31Z",
-                "open_issues": 127,
+                "open_issues": 125,
                 "owner": "tailwindlabs",
                 "repo": "headlessui",
-                "stars": 28837,
+                "stars": 28834,
                 "topics": [
                   "a11y",
                   "accessibility",
@@ -177,11 +177,11 @@
                 "id": 88717215,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-17T21:48:21Z",
+                "last_commit": "2026-11-19T20:43:21Z",
                 "open_issues": 244,
                 "owner": "youzan",
                 "repo": "vant",
-                "stars": 24429,
+                "stars": 24428,
                 "topics": [
                   "components",
                   "mobile",
@@ -210,7 +210,7 @@
                 "open_issues": 382,
                 "owner": "vuejs",
                 "repo": "vitepress",
-                "stars": 18507,
+                "stars": 18513,
                 "topics": [
                   "docs-generator",
                   "markdown",
@@ -237,7 +237,7 @@
                 "open_issues": 175,
                 "owner": "logaretm",
                 "repo": "vee-validate",
-                "stars": 11260,
+                "stars": 11258,
                 "topics": [
                   "form",
                   "form-validation",
@@ -274,7 +274,7 @@
                 "open_issues": 29,
                 "owner": "tsparticles",
                 "repo": "tsparticles",
-                "stars": 9114,
+                "stars": 9117,
                 "topics": [
                   "2d",
                   "angular",
@@ -316,7 +316,7 @@
                 "open_issues": 212,
                 "owner": "vuelidate",
                 "repo": "vuelidate",
-                "stars": 6860,
+                "stars": 6859,
                 "topics": [
                   "javascript",
                   "validation",
@@ -339,11 +339,11 @@
                 "id": 169618186,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-18T14:55:44Z",
-                "open_issues": 55,
+                "last_commit": "2026-11-19T11:22:33Z",
+                "open_issues": 56,
                 "owner": "vuejs",
                 "repo": "router",
-                "stars": 4708,
+                "stars": 4709,
                 "topics": [
                   "vue",
                   "vue-router"
@@ -384,7 +384,7 @@
                 "id": 549650165,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-18T12:12:03Z",
+                "last_commit": "2026-11-19T15:50:21Z",
                 "open_issues": 45,
                 "owner": "inokawa",
                 "repo": "virtua",
@@ -429,7 +429,7 @@
                 "open_issues": 532,
                 "owner": "epicmaxco",
                 "repo": "vuestic-ui",
-                "stars": 3748,
+                "stars": 3747,
                 "topics": [
                   "accessibility",
                   "components",
@@ -465,7 +465,7 @@
                 "open_issues": 63,
                 "owner": "Maronato",
                 "repo": "vue-toastification",
-                "stars": 3358,
+                "stars": 3357,
                 "topics": [
                   "composition-api",
                   "notifications",
@@ -490,11 +490,11 @@
                 "id": 988222683,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-11-18T10:11:06Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-19T16:48:26Z",
+                "open_issues": 0,
                 "owner": "Simon-He95",
                 "repo": "markstream-vue",
-                "stars": 3059,
+                "stars": 3060,
                 "topics": [
                   "ai",
                   "ai-chat",
@@ -536,7 +536,7 @@
                 "open_issues": 135,
                 "owner": "kutlugsahin",
                 "repo": "vue-smooth-dnd",
-                "stars": 1833,
+                "stars": 1832,
                 "topics": [
                   "drag",
                   "drag-and-drop",
@@ -596,7 +596,7 @@
                 "open_issues": 20,
                 "owner": "vueup",
                 "repo": "vue-quill",
-                "stars": 1346,
+                "stars": 1345,
                 "topics": [
                   "editor",
                   "quill",
@@ -653,7 +653,7 @@
                 "open_issues": 24,
                 "owner": "pikax",
                 "repo": "vue-composable",
-                "stars": 1176,
+                "stars": 1175,
                 "topics": [
                   "breakpoint",
                   "composition-api",
@@ -683,8 +683,8 @@
                 "id": 241878558,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-18T22:08:52Z",
-                "open_issues": 12,
+                "last_commit": "2026-11-18T23:00:05Z",
+                "open_issues": 15,
                 "owner": "vuejs",
                 "repo": "test-utils",
                 "stars": 1164,
@@ -708,7 +708,7 @@
                 "open_issues": 38,
                 "owner": "fast-crud",
                 "repo": "fast-crud",
-                "stars": 1154,
+                "stars": 1153,
                 "topics": [
                   "admin",
                   "admin-template",
@@ -776,7 +776,7 @@
                 "open_issues": 10,
                 "owner": "ismail9k",
                 "repo": "vue3-carousel",
-                "stars": 885,
+                "stars": 884,
                 "topics": [
                   "carousel",
                   "carousel-slider",
@@ -805,7 +805,7 @@
                 "open_issues": 77,
                 "owner": "vueform",
                 "repo": "multiselect",
-                "stars": 829,
+                "stars": 828,
                 "topics": [
                   "autocomplete",
                   "dropdown",
@@ -843,7 +843,7 @@
                 "open_issues": 16,
                 "owner": "MelihAltintas",
                 "repo": "vue3-openlayers",
-                "stars": 799,
+                "stars": 797,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -936,7 +936,7 @@
                 "id": 469341360,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-18T05:15:27Z",
+                "last_commit": "2026-11-19T05:10:22Z",
                 "open_issues": 12,
                 "owner": "hcg1023",
                 "repo": "vue3-dnd",
@@ -968,7 +968,7 @@
                 "open_issues": 26,
                 "owner": "prabhuignoto",
                 "repo": "vue-float-menu",
-                "stars": 575,
+                "stars": 574,
                 "topics": [
                   "composition-api",
                   "drag-menu",
@@ -1028,7 +1028,7 @@
                 "open_issues": 7,
                 "owner": "andrewcourtice",
                 "repo": "harlem",
-                "stars": 514,
+                "stars": 513,
                 "topics": [
                   "javascript",
                   "state-management",
@@ -1056,7 +1056,7 @@
                 "open_issues": 0,
                 "owner": "MrGao-hy",
                 "repo": "hy-design-uni",
-                "stars": 400,
+                "stars": 399,
                 "topics": [
                   "hy-app",
                   "hy-ui",
@@ -1085,7 +1085,7 @@
                 "open_issues": 32,
                 "owner": "MartinMalinda",
                 "repo": "vue-concurrency",
-                "stars": 363,
+                "stars": 362,
                 "topics": [
                   "async",
                   "cancelation",
@@ -1139,7 +1139,7 @@
                 "open_issues": 23,
                 "owner": "vuejs",
                 "repo": "vue-cli-plugin-vue-next",
-                "stars": 339,
+                "stars": 338,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:08.604Z"
@@ -1394,7 +1394,7 @@
                 "id": 331809588,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-18T18:14:52Z",
+                "last_commit": "2026-11-19T21:46:19Z",
                 "open_issues": 0,
                 "owner": "revolist",
                 "repo": "vue3-datagrid",
@@ -2877,7 +2877,7 @@
                 "open_issues": 0,
                 "owner": "themeselection",
                 "repo": "materio-vuetify-vuejs-admin-template-free",
-                "stars": 972,
+                "stars": 971,
                 "topics": [
                   "admin-dashboard",
                   "admin-dashboards",
@@ -2918,7 +2918,7 @@
                 "open_issues": 0,
                 "owner": "themeselection",
                 "repo": "materio-vuetify-vuejs-admin-template-free",
-                "stars": 972,
+                "stars": 971,
                 "topics": [
                   "admin-dashboard",
                   "admin-dashboards",
@@ -2989,7 +2989,7 @@
                 "open_issues": 3,
                 "owner": "coreui",
                 "repo": "coreui-vue",
-                "stars": 638,
+                "stars": 637,
                 "topics": [
                   "bootstrap",
                   "bootstrap-vue",
@@ -3280,7 +3280,7 @@
                 "id": 329448877,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-09T05:34:05Z",
+                "last_commit": "2026-11-19T10:51:52Z",
                 "open_issues": 6,
                 "owner": "boussadjra",
                 "repo": "vuestrata",
@@ -3310,7 +3310,7 @@
                 "id": 329448877,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-09T05:34:05Z",
+                "last_commit": "2026-11-19T10:51:52Z",
                 "open_issues": 6,
                 "owner": "boussadjra",
                 "repo": "vuestrata",
@@ -3988,7 +3988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:19:59.680Z",
+    "last_updated": "2026-11-19T22:26:57.014Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Vue 3",
